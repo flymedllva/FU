@@ -18,6 +18,7 @@ for i in range(1,months+1):
 	bank_two = bank_two * 1.011
 	bank_two_buff.append(bank_two)
 print('|{:>2}{:>9}  |{:>8}|'.format('','1 банк', '2 банк'))
+
 for i in range(len(bank_two_buff)):
 	print('|{:>2} – {:<8}|{:>8}|'.format(i+1,round(bank_one_buff[i]), round(bank_two_buff[i])))
 	
@@ -25,3 +26,4 @@ if bank_one_buff[len(bank_one_buff)-1] > bank_two_buff[len(bank_two_buff)-1]:
 	print('Выгоднее вложить в первый банк')
 else:
 	print('Выгоднее вложить во 2 банк')
+	
