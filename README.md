@@ -6,6 +6,7 @@
 
 * Основы программирования:
 	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - Python
+	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX
 
 ### Сессия
 * [I курс (зима 2018)](#)
