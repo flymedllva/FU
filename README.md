@@ -5,7 +5,7 @@
 ### 1 Курс
 
 * Основы программирования:
-	* [Практические по Python](#) - Python
+	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - Python
 
 ### Сессия
 * [I курс (зима 2018)](#)
