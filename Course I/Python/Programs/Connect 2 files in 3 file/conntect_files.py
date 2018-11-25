@@ -23,16 +23,3 @@ with open('file1.txt') as file1, open('file2.txt') as file2, open('file3.txt', '
 		file3.write(str(i))
 		if i != buff_file[len(buff_file)-1]:
 			file3.write('\n')
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
