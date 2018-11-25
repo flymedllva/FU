@@ -38,7 +38,7 @@ bank_two = bank_amount
 print('|{:>2}{:>9}  |{:>8}|'.format('','1 банк', '2 банк'))
 for i in range(1,months+1):
 	bank_one = bank_one + (bank_amount * 0.011)
-	bank_two = bank_two * 1.011
+	bank_two = bank_two * 1.010
 	print('|{:>2} – {:<8}|{:>8}|'.format(i,round(bank_one), round(bank_two)))
 
 if bank_one > bank_two:
