@@ -1,8 +1,7 @@
 <img src="pig.png" align="right" />
 
 # Репозиторий FU
-[![CodeFactor](https://www.codefactor.io/repository/github/georgiydemo/kip/badge)](https://www.codefactor.io/repository/github/georgiydemo/kip)
-[![BCH compliance](https://bettercodehub.com/edge/badge/GeorgiyDemo/KIP?branch=master)](https://bettercodehub.com/)
+
 ### 1 Курс
 
 * Основы программирования:
