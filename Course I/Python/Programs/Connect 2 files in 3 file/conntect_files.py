@@ -20,16 +20,13 @@ with open('file1.txt') as file1, open('file2.txt') as file2, open('file3.txt', '
 	x = select_readline(file1)
 	y = select_readline(file2)
 	while (x or y) != '':
-		try:
-			if (inInt(y) == None) or (inInt(y) > inInt(x)):
-				print(x, file = file3)
-				x = select_readline(file1)
-			else:
-				print(y, file = file3)
-				y = select_readline(file2)
-		except Exception:
+		if (inInt(y) != None and inInt(x) != None and inInt(y) > inInt(x)) or (inInt(y) == None):
+			print(x, file = file3)
+			x = select_readline(file1)
+		else:
 			print(y, file = file3)
 			y = select_readline(file2)
+
 ''' 
 	########################
 	2 version, list 
