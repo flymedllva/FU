@@ -1,6 +1,7 @@
 <img src="pig.png" align="right" />
 
 # Репозиторий FU
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CodeFactor](https://www.codefactor.io/repository/github/flymedllva/fu/badge)](https://www.codefactor.io/repository/github/flymedllva/fu)
 [![BCH compliance](https://bettercodehub.com/edge/badge/FlymeDllVa/FU?branch=master)](https://bettercodehub.com/)	
 ### 1 Курс
