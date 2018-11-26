@@ -13,7 +13,7 @@
 
 ### Студенческий совет | Информационный комитет
 * Дизайн
-	* [Дизайн](#) - psd,jpg,png
+	* [Большой Студенческий Бал 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Big%20Student%20Ball%202019) - jpg,png
 * Задачи связанные с программированием:
 	* [Рисование обложки VK для Большого Студенческого бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Drawing%20the%20VK%20cover) - PHP
 
