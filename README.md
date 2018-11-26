@@ -1,7 +1,8 @@
 <img src="pig.png" align="right" />
 
 # Репозиторий FU
-
+[![CodeFactor](https://www.codefactor.io/repository/github/flymedllva/fu/badge)](https://www.codefactor.io/repository/github/flymedllva/fu)
+[![BCH compliance](https://bettercodehub.com/edge/badge/FlymeDllVa/FU?branch=master)](https://bettercodehub.com/)	
 ### 1 Курс
 
 * Основы программирования:
