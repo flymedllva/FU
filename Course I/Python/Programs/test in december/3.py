@@ -11,8 +11,8 @@ def purchaseAll(listGoods, name, count): # Стоимость товара
 		return listGoods[name] * count
 	except KeyError:
 		return -1
-#print(purchaseAll(listGoods,input('Введите название товара: '), input('Введите колличество: '))) 
-print(purchaseAll(listGoods,'Шоколад', 1)) 
+		
+print(purchaseAll(listGoods,input('Введите название товара: '), input('Введите колличество: '))) 
 
 purchase.sort(key=lambda x: x[1], reverse=True) # Сортировка по убыванию
 
