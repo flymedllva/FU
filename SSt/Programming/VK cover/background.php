@@ -15,9 +15,6 @@
 	// Time
 	$rem = strtotime('2019-01-25 00:00:00') - time();
 	$day = floor($rem / 86400) + 1;
-//	$hr  = floor(($rem % 86400) / 3600);
-//	$min = floor(($rem % 3600) / 60);
-//	$sec = ($rem % 60);
 	
 	
 
