@@ -12,15 +12,15 @@ def purchaseAll(listGoods, name, count): # Стоимость товара
 	except KeyError:
 		return -1
 		
-print(purchaseAll(listGoods,input('Введите название товара: '), input('Введите колличество: '))) 
+try:
+	print(purchaseAll(listGoods,input('Введите название товара: '), int(input('Введите колличество: ')))) 
+except ValueError:
+	print('Неправильное колличество товара')
 
 purchase.sort(key=lambda x: x[1], reverse=True) # Сортировка по убыванию
 
 print('{}'.format('-'*32))
 for i in purchase:
-	try:
-		print('| {:^10} | {:^6} | {:^6} |'.format(i[0],i[1],listGoods[i[0]]))
-	except Exception:
-		# Когда нет цены товара пропускает его
-		pass
+	if listGoods.get(i[0]):
+		print('| {:^10} | {:^6} | {:^6} |'.format(i[0],i[1],listGoods[i[0]] ))
 print('{}'.format('-'*32))
