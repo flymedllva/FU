@@ -26,5 +26,5 @@ purchase.sort(key=lambda x: x[2], reverse=True) # Сортировка по уб
 print('{}'.format('-'*32))
 for i in purchase:
 	if listGoods.get(i[0]):
-		print('| {:^10} | {:^6} | {:^6} |'.format(i[0],i[1],listGoods[i[0]] ))
+		print('| {:^10} | {:^6} | {:^6} |'.format(i[0],i[1],i[2]))
 print('{}'.format('-'*32))
