@@ -17,7 +17,11 @@ try:
 except ValueError:
 	print('Неправильное колличество товара')
 
-purchase.sort(key=lambda x: x[1], reverse=True) # Сортировка по убыванию
+for i,x in enumerate(purchase):
+	purchase[i] = list(x)
+	purchase[i].append(purchaseAll(listGoods,x[0],x[1]))
+
+purchase.sort(key=lambda x: x[2], reverse=True) # Сортировка по убыванию
 
 print('{}'.format('-'*32))
 for i in purchase:
