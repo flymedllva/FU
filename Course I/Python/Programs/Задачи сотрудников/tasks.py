@@ -1,14 +1,14 @@
 #1. Консольное приложение +
 #2. Авторизация по логину/паролю или секретному ключу +
 #3. Два уровня доступа +
-#4. Хранение логинов/паролей
+#4. Хранение логинов/паролей +
 #	Администратор может:
 #		Регистрировать нового пользователя
 #		Назначать задачи пользователям
 #		Подтвердить выполнение
 #	Сотрудник может:
 #		Проверить свои задачи +
-#		Поставить задаче "выполнено"
+#		Поставить задаче "выполнено" +
 
 ### Functions
 # Open File
@@ -18,7 +18,7 @@ def openFile(FILE_NAME):
 		return base
 def closeFile(FILE_NAME):
 	with open(FILE_NAME, 'wb') as file_1:
-		return pickle.dump(data, file_1)
+		return pickle.dump(base, file_1)
 # Authorization
 def auth(base, userName, userPassword):
 	try:
@@ -50,17 +50,17 @@ FILE_NAME = 'base.pickle'
 userName = 'Flyme'
 userPassword = '12345'
 
-base = openFile(FILE_NAME)
+base = openFile(FILE_NAME) # Data ase
 print(base)
 if auth(base, userName, userPassword) != 0:
-		command = ' '
+		command = ''
 		currentUser = auth(base, userName, userPassword) # ['Login', 'Secret Key', 'Password', 'Privileges', 'Tasks'(1, 'Name Task')]
 		tasksUser = currentUser[4] # [(1, 'Name Task'), (0, 'Name Task')]
 		while command != '0':
 			### Admin
 			if checkPrivileges(currentUser[3]) == 'Администратор':
 				print('Доступные вам команды: ')
-				print('	0. Завершить программу\n	1. Мои задачи\n	2. Поставить выполено моей задаче\n	3. Регистрировать нового пользователя\n	4. Подтвердить выполнение')
+				print('	0. Завершить программу\n	1. Мои задачи\n	2. Поставить выполено моей задаче\n	3. Новая задача\n	4. Подтвердить выполнение\n	5. Регистрировать нового пользователя')
 				print('\n{} выберите команду:'.format(currentUser[0]), end='')
 				command = input(' ')
 				
@@ -75,14 +75,28 @@ if auth(base, userName, userPassword) != 0:
 					print('\nВыберите номер вашей задачи, которой требуется изменить готовность: ', end='')
 					task = input()
 					ready = input('Выберите выполнена ли задача\n	1 – выполнена\n	0 – не выполнена\n')
-					tasksUser[int(task)-1] = (int(ready), tasksUser[int(task)-1][1])	
+					tasksUser[int(task)-1] = (int(ready), tasksUser[int(task)-1][1])
+				if command == '3':
+					print(base)
+					print('\nПользователи:')
+					for num,keys in enumerate(base.keys()):
+						print('   {}'.format(keys[0]))
+					try:
+						userNum = input('Введите имя пользователя, которому хотите дать новую задачу: ')
+						selectedUserTasks = base['Flyme'][4]
+						newTask = input('Введите новую задачу: ')
+						selectedUserTasks.append((0,newTask))
+					except Exception:
+						print('\nОшибка при обработке данных\nВыход...')
+						break
+					break
 			
 			### User
 			elif checkPrivileges(currentUser[3]) == 'Пользователь':
 				print('Доступные вам команды: ')
 				print('	0. Завершить программу\n	1. Мои задачи\n	2. Поставить выполено моей задаче')
-				print('\n{} выберите команду:'.format(currentUser[0]))
-				command = '2'
+				print('\n{} выберите команду:'.format(currentUser[0]), end='')
+				command = input(' ')
 				if command == '1':
 					print('\nМои задачи:')
 					for num,i in enumerate(tasksUser):
@@ -109,7 +123,3 @@ else:
 
 
 
-#base = multi_key_dict( {
-#						('Flyme', 'qwerty'): ['Flyme', 'qwerty', '12345', 'admin', [(1, 'Сделать Дз'), (0, 'Вынести мусор')] ],
-#						('Ivan', 'qwertu'): ['Ivan', 'qwertu', '12345', 'user', [(0, 'Выучить историю'), (1, 'Приготовиться к худшему')] ]
-#					  } )
