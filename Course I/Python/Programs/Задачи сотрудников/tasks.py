@@ -61,7 +61,7 @@ if auth(base, userName, userPassword) != 0:
 		while command != '0':
 			### Admin
 			if checkPrivileges(currentUser[3]) == 'Администратор':
-				print('Доступные вам команды: ')
+				print('\nДоступные вам команды: ')
 				print('	0. Завершить программу\n	1. Мои задачи\n	2. Поставить выполено моей задаче\n	3. Новая задача\n	4. Подтвердить выполнение задачи другого пользователя\n	5. Зарегистрировать нового пользователя')
 				print('\n{} выберите команду:'.format(currentUser[0]), end='')
 				command = input(' ')
@@ -124,7 +124,7 @@ if auth(base, userName, userPassword) != 0:
 			
 			### User
 			elif checkPrivileges(currentUser[3]) == 'Пользователь':
-				print('Доступные вам команды: ')
+				print('\nДоступные вам команды: ')
 				print('	0. Завершить программу\n	1. Мои задачи\n	2. Поставить выполено моей задаче')
 				print('\n{} выберите команду:'.format(currentUser[0]), end='')
 				command = input(' ')
