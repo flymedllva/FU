@@ -17,7 +17,7 @@ def openFile(FILE_NAME):
 	with open(FILE_NAME, 'rb') as file_1:
 		base = pickle.load(file_1)
 		return base
-def closeFile(FILE_NAME):
+def closeFile(FILE_NAME, base):
 	with open(FILE_NAME, 'wb') as file_1:
 		return pickle.dump(base, file_1)
 # Authorization
@@ -50,10 +50,10 @@ import pickle
 from multi_key_dict import multi_key_dict # Import multiple Dict keys
 
 FILE_NAME = 'base.pickle'
-userName = 'Ivan'
+userName = 'Flyme'
 userPassword = '12345'
 
-base = openFile(FILE_NAME) # Data ase
+base = openFile(FILE_NAME) # Data base
 if auth(base, userName, userPassword) != 0:
 		command = ''
 		currentUser = auth(base, userName, userPassword) # ['Login', 'Secret Key', 'Password', 'Privileges', 'Tasks'(1, 'Name Task')]
@@ -78,6 +78,17 @@ if auth(base, userName, userPassword) != 0:
 					print('\nВыберите номер вашей задачи, которой требуется изменить готовность: ', end='')
 					task = input()
 					ready = input('Выберите выполнена ли задача\n	1 – выполнена\n	0 – не выполнена\n')
+					try:
+						if int(ready) == 1:
+							ready = 2
+						elif int(ready) == 0:
+							pass
+						else:
+							print('Команда не найдена')
+							break
+					except Exception:
+						print('Не удалось выполнить команду')
+						break
 					tasksUser[int(task)-1] = (int(ready), tasksUser[int(task)-1][1])
 				if command == '3':
 					print(base)
@@ -135,6 +146,7 @@ if auth(base, userName, userPassword) != 0:
 			### Other User
 			else:
 				print('Неизвестный пользователь')
+			closeFile(FILE_NAME, base)
 				
 else:
 	print('Авторизация прошла неудачно\nЗавершение программы...')
