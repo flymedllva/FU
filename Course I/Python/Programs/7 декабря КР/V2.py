@@ -9,7 +9,10 @@ def userSum(stud_id, par_list=('att1', 'att2', 'exam', 'total'), file_name='resu
 		for line in DictReader(result_file, delimiter=';'):
 			if int(line['student_id']) == stud_id:
 				for i in range(len(par_list)):
-					resultDict[par_list[i]] = int(resultDict[par_list[i]]) +  int(line[par_list[i]])
+					try:
+						resultDict[par_list[i]] = int(resultDict[par_list[i]]) +  int(line[par_list[i]])
+					except Exception:
+						print('Ошибка в числе, пропуск...')
 		return resultDict
 print(userSum(180825))
 
