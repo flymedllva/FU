@@ -11,7 +11,7 @@
 	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
 
 ### Сессия
-* [I курс (зима 2018)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/Course%201)
+* [I курс (зима 2018)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions)
 
 ### Студенческий совет | Информационный комитет
 * Задачи связанные с программированием:
