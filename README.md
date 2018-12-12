@@ -11,15 +11,15 @@
 	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
 
 ### Сессия
-* [I курс (зима 2018)](#)
+* [I курс (зима 2018)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/Course%201)
 
 ### Студенческий совет | Информационный комитет
+* Задачи связанные с программированием:
+	* [Рисование обложки VK для Большого Студенческого бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/VK%20cover) - PHP
 * Дизайн
 	* [FINRISE 2018](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/FINRISE%2001.12.18) - jpg
 	* [Большой Студенческий Бал 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Big%20Student%20Ball%202019) - jpg
 	* [Плакат ВузЭкоФест](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Eco%20Fest%20Poster) - jpg
 	* [Логотип Адская Кухня](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Hell%20Kitchen) - jpg
-* Задачи связанные с программированием:
-	* [Рисование обложки VK для Большого Студенческого бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/VK%20cover) - PHP
 
 *Москва, Финансовый университет при Правительстве Российской Федерации, департамент анализа данных, принятия решений и финансовых технологий, факультет прикладной математики и информационных технологий, информационно-технологические сервисы и высокопроизводительные технологии обработки данных в экономике и финансах
