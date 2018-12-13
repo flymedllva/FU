@@ -8,6 +8,7 @@
 
 * Основы программирования:
 	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - Python
+	* [Питонтьютор pythontutor.ru](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/pythontutor.ru) - Python
 	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
 
 ### Сессия
