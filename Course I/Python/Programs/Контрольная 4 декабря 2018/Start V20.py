@@ -1,7 +1,7 @@
 # Functions
 def openFile(FILE_NAME): # openFile
 	with open(FILE_NAME) as file1:
-		return [i.rstrip() for i in file1.readlines()]
+		return [i.rstrip() for i in file1]
 def allCount(line): # count
 	dictCount = {}
 	for i in line:
