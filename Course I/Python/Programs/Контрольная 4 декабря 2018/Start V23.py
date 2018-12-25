@@ -22,4 +22,4 @@ OPENED_FILE = fileOpen(FILE_NAME)
 # Start program
 print(OPENED_FILE) # 1
 print(expensiveGoods(OPENED_FILE)) # 2
-fileWrite(FILE_NAME_TWO, expensiveGoods(OPENED_FILE)) # 3
+fileWrite(FILE_NAME_TWO, expensiveGoods(OPENED_FILE)) # 3q
