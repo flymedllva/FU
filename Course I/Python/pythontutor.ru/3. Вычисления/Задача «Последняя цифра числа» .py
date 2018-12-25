@@ -1,0 +1,1 @@
+print((lambda x: x[len(x)-1])(input('Введите число: ')))
