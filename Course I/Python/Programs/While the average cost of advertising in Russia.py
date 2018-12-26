@@ -3,7 +3,6 @@
 #11111,RU,Moscow,2,4,0.3
 #22222,RU,Voronezh,2,3,0.2
 #13413,UA,Kiev,4,11,0.7
-from functools import reduce
 csv = '''11111,RU,Moscow,2,4,0.3
 22222,RU,Voronezh,2,3,0.2
 22222,RU,SPb,1,2,0.2
