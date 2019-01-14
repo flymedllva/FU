@@ -58,6 +58,7 @@ log2 = countIP(list(map(lambda x: x.split('\t'), log2.split('\n'))))
 from time import sleep
 for ip, items in conutServerIP(log1, log2).items():
 	sleep(0.05)
+	print(ip, items)
 	if items[1] == None or items[0] == None:
 		if items[0] != None:
 			print(f'{ip:>16} заходил только на 1-й сервер')
