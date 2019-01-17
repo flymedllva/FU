@@ -12,7 +12,7 @@
 	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
 
 ### Сессия
-* [I курс (зима 2018)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions)
+* [I курс (зима 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions)
 	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/Дискретная%20математика) - PDF/PNG/DOCX
 	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - JPG/RTF/DOC
 	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ОВС) - DOC/PPT
