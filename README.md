@@ -16,7 +16,7 @@
 	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/Дискретная%20математика) - PDF/PNG/DOCX
 	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - JPG/RTF/DOC
 	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ОВС) - DOC/PPT
-	* [ФДК и ДКБ](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ФДК%20и%20ДКБ) - DOCX
+	* [Финансы, Деньги, Кредит  и Деньги, Кредит, Банки](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ФДК%20и%20ДКБ) - DOCX
 
 ### Студенческий совет | Информационный комитет
 * Задачи связанные с программированием:
