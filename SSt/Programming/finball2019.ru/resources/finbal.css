@@ -2,7 +2,7 @@
 html {
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
 	background-color: #001233;
-	background: url(background.jpg) !important;
+	background: url(background.jpg);
 	background-size: cover;
 	color: white;
 	position: relative;
@@ -43,7 +43,7 @@ margin-bottom: 12px;
 }
 p {
 	font-size: 13px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
 }
 a {
     color: #ffffff;
@@ -56,7 +56,6 @@ a:hover {
 }
 canvas {
   display: block;
-  vertical-align: bottom;
 }
 .copyright {
 	font-weight: 400;
@@ -72,7 +71,7 @@ canvas {
   position: absolute;
   width: 100%;
   height: 100%;
-  top: 0px;
+  top: 0;
 }
 .social-block {
 	margin-top: 20px;
@@ -173,7 +172,7 @@ canvas {
 	}
 	p {
 	font-size: 15px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	}
 	h2 {
 	font-size: 1.7rem;
@@ -204,7 +203,7 @@ canvas {
 	}
 	p {
 	font-size: 19px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	}
 	h2 {
 	font-size: 1.8rem;
@@ -239,7 +238,7 @@ canvas {
 	}
 	p {
 	font-size: 22px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	}
 	.copyright {
 	font-weight: 400;
@@ -260,7 +259,7 @@ canvas {
 	}
 	p {
 	font-size: 23px;
-	margin-bottom: 0px;
+	margin-bottom: 0;
 	}
 	.copyright {
 	margin-top: 10px;
