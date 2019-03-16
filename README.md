@@ -10,6 +10,7 @@
 	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - Python
 	* [Питонтьютор](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/pythontutor.ru) - Python
 	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
+* [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/UNIX) - ZIP/Docx
 
 ### Сессия
 * [I курс (зима 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions)
