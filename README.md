@@ -24,7 +24,7 @@
 	* [Сайт finball2019.ru для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/finball2019.ru) - HTML/CSS/JS/JPG
 	* [Рисование обложки VK для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/VK%20cover) - PHP
 * Дизайн
-	* [Логотип кафедры Анализа Рисков и Экономическая Безопасности](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Логотип%20Кафедры%20Анализа%20Рисков%20и%20Экономической%20Безопасности) - AI/JPG
+	* [Логотип кафедры Анализа Рисков и Экономической Безопасности](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Логотип%20Кафедры%20Анализа%20Рисков%20и%20Экономической%20Безопасности) - AI/JPG
 	* [Большой Студенческий Бал 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Big%20Student%20Ball%202019) - JPG
 	* [Finrise 2018](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/FINRISE%2001.12.18) - JPG
 	* [Плакат ВузЭкоФест](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Eco%20Fest%20Poster) - JPG
