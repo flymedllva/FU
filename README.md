@@ -1,6 +1,6 @@
 <img src="./img/pig.png" align="right" />
 
-# Репозиторий FU
+# Репозиторий FU <img src="./img/logo.png" height="80"/>
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CodeFactor](https://www.codefactor.io/repository/github/flymedllva/fu/badge)](https://www.codefactor.io/repository/github/flymedllva/fu)
 [![BCH compliance](https://bettercodehub.com/edge/badge/FlymeDllVa/FU?branch=master)](https://bettercodehub.com/)	
@@ -30,6 +30,5 @@
 	* [Finrise 2018](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/FINRISE%2001.12.18) - JPG
 	* [Плакат ВузЭкоФест](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Eco%20Fest%20Poster) - JPG
 	* [Логотип Адская Кухня](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Hell%20Kitchen) - JPG
-
-* <img src="./img/logo.png" /> 
-* Москва, Финансовый университет при Правительстве Российской Федерации, департамент анализа данных, принятия решений и финансовых технологий, факультет прикладной математики и информационных технологий, информационно-технологические сервисы и высокопроизводительные технологии обработки данных в экономике и финансах
+ 
+*Москва, Финансовый университет при Правительстве Российской Федерации, департамент анализа данных, принятия решений и финансовых технологий, факультет прикладной математики и информационных технологий, информационно-технологические сервисы и высокопроизводительные технологии обработки данных в экономике и финансах
