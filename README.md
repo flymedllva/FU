@@ -1,6 +1,6 @@
 <img src="./img/pig.png" align="right" />
 
-# Репозиторий FU <img src="./img/logo.png" height="80"/>
+# Репозиторий FU <img src="./img/logo.png" height="50"/>
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![CodeFactor](https://www.codefactor.io/repository/github/flymedllva/fu/badge)](https://www.codefactor.io/repository/github/flymedllva/fu)
 [![BCH compliance](https://bettercodehub.com/edge/badge/FlymeDllVa/FU?branch=master)](https://bettercodehub.com/)	
