@@ -7,7 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		42C7A3792233235500A58B0A /* Задача 4 – Наибольшее произведение-палиндром.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42C7A36F223322B100A58B0A /* Задача 4 – Наибольшее произведение-палиндром.cpp */; };
+		421538F7223D7ED40062613A /* Задача 9 – Особая тройка Пифагора.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 4243D9512235C4DB0099E7F7 /* Задача 9 – Особая тройка Пифагора.cpp */; };
+		42EB3EA0223F6C5200251160 /* Задача 25 – 1000-Значное число Фибоначчи.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 42EB3E9F223F6C5200251160 /* Задача 25 – 1000-Значное число Фибоначчи.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,11 +24,19 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		4243D9512235C4DB0099E7F7 /* Задача 9 – Особая тройка Пифагора.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 9 – Особая тройка Пифагора.cpp"; sourceTree = "<group>"; };
+		4243D954223630960099E7F7 /* Задача 11 – Наибольшее произведение в таблице.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 11 – Наибольшее произведение в таблице.cpp"; sourceTree = "<group>"; };
+		4254038B2236EBD0006A8FC6 /* Задача 13 – Большая сумма.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 13 – Большая сумма.cpp"; sourceTree = "<group>"; };
 		42C7A3642233229200A58B0A /* C++ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42C7A36E223322B100A58B0A /* Задача 2 – Четные числа Фибоначчи.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 2 – Четные числа Фибоначчи.cpp"; sourceTree = "<group>"; };
 		42C7A36F223322B100A58B0A /* Задача 4 – Наибольшее произведение-палиндром.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 4 – Наибольшее произведение-палиндром.cpp"; sourceTree = "<group>"; };
 		42C7A370223322B100A58B0A /* Задача 1 – Числа, кратные 3 или 5.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 1 – Числа, кратные 3 или 5.cpp"; sourceTree = "<group>"; };
 		42C7A371223322B100A58B0A /* Задача 3 – Наибольший простой делитель.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 3 – Наибольший простой делитель.cpp"; sourceTree = "<group>"; };
+		42C7A37A223328FE00A58B0A /* Задача 5 – Наименьшее кратное.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 5 – Наименьшее кратное.cpp"; sourceTree = "<group>"; };
+		42C7A37C2233BB6A00A58B0A /* Задача 6 – Разность между суммой квадратов и квадратом суммы.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 6 – Разность между суммой квадратов и квадратом суммы.cpp"; sourceTree = "<group>"; };
+		42C7A37F2233BE9700A58B0A /* Задача 7 – 10001-ое простое число.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 7 – 10001-ое простое число.cpp"; sourceTree = "<group>"; };
+		42C7A3812233C6C900A58B0A /* Задача 8 – Наибольшее произведение в последовательности.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 8 – Наибольшее произведение в последовательности.cpp"; sourceTree = "<group>"; };
+		42EB3E9F223F6C5200251160 /* Задача 25 – 1000-Значное число Фибоначчи.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Задача 25 – 1000-Значное число Фибоначчи.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +73,14 @@
 				42C7A36E223322B100A58B0A /* Задача 2 – Четные числа Фибоначчи.cpp */,
 				42C7A371223322B100A58B0A /* Задача 3 – Наибольший простой делитель.cpp */,
 				42C7A36F223322B100A58B0A /* Задача 4 – Наибольшее произведение-палиндром.cpp */,
+				42C7A37A223328FE00A58B0A /* Задача 5 – Наименьшее кратное.cpp */,
+				42C7A37C2233BB6A00A58B0A /* Задача 6 – Разность между суммой квадратов и квадратом суммы.cpp */,
+				42C7A37F2233BE9700A58B0A /* Задача 7 – 10001-ое простое число.cpp */,
+				42C7A3812233C6C900A58B0A /* Задача 8 – Наибольшее произведение в последовательности.cpp */,
+				4243D9512235C4DB0099E7F7 /* Задача 9 – Особая тройка Пифагора.cpp */,
+				4243D954223630960099E7F7 /* Задача 11 – Наибольшее произведение в таблице.cpp */,
+				4254038B2236EBD0006A8FC6 /* Задача 13 – Большая сумма.cpp */,
+				42EB3E9F223F6C5200251160 /* Задача 25 – 1000-Значное число Фибоначчи.cpp */,
 			);
 			path = "C++";
 			sourceTree = "<group>";
@@ -124,7 +141,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42C7A3792233235500A58B0A /* Задача 4 – Наибольшее произведение-палиндром.cpp in Sources */,
+				421538F7223D7ED40062613A /* Задача 9 – Особая тройка Пифагора.cpp in Sources */,
+				42EB3EA0223F6C5200251160 /* Задача 25 – 1000-Значное число Фибоначчи.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
