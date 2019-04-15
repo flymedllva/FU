@@ -14,8 +14,7 @@
 #			2
 			
 A, B, P = [int(i) for i in input().split()]
-for x in range(0, 99999999):
-	computed = (B * x) % P
-	if computed == A and x > 0:
+for x in range(0, P * 100):
+	if (B * x) % P == A and x > 0:
 		print(x)
 		break
