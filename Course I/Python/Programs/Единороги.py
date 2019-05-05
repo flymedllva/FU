@@ -16,7 +16,6 @@
 #	Результат
 #		4
 
-import time
 N, K, M = [int(input()) for i in range(3)]
 unicorn = 0
 masters = []
