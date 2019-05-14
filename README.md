@@ -13,7 +13,6 @@
 * [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/UNIX) - ZIP/Docx
 
 ## Сессия
-### I Курс
 * [I курс I семестр (зима 2018 - январь 2019)](#)
 	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/Дискретная%20математика) - PDF/PNG/DOCX
 	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/История) - JPG/DOC
