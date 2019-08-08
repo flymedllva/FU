@@ -7,25 +7,27 @@
 
 ## 1 Курс (2018-2019)
 * Основы программирования:
-	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - Python
-	* [Питонтьютор](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/pythontutor.ru) - Python
-	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - DOC/DOCX/ipynb
-* [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/UNIX) - ZIP/Docx
-* [Безопасность Жизнедеятельности](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Гуманитарные%20предметы/БЖД) - Docx/Pages
-* [Политология](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Гуманитарные%20предметы/Политология%20:%20Гриднев%20Д.В%20ПИ18-1%202019%20Гражданское%20общество.docx) - Docx
-* [Философия](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Гуманитарные%20предметы/Философия) - Docx/Key
+	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs) - py
+	* [Питонтьютор](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/pythontutor.ru) - py
+	* [Документация по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Documentation) - doc/docx/ipynb
+* [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/UNIX) - zip/docx
+* [Безопасность Жизнедеятельности](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Гуманитарные%20предметы/БЖД) - docx/pages
+* [Политология](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Гуманитарные%20предметы/Политология%20:%20Гриднев%20Д.В%20ПИ18-1%202019%20Гражданское%20общество.docx) - docx
+* [Философия](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Гуманитарные%20предметы/Философия) - docx/key
 
 ## Сессия
 * [I курс I семестр (зима 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I)
-	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Дискретная%20математика) - PDF/PNG/DOCX
-	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/История) - JPG/DOC
-	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ОВС) - DOC/PPT
-	* [Право](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/ОВС) - DOCX
+	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Дискретная%20математика) - pdf/png/docx
+	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/История) - jpg/doc
+	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ОВС) - doc/ppt
+	* [Право](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/ОВС) - docx
 	* [Финансы, Деньги, Кредит и Деньги, Кредит, Банки](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Финансы%2C%20Деньги%2C%20Кредит%20и%20Деньги%2C%20Кредит%2C%20Банки) - DOCX
-* [I курс II семестр (июнь 2019)](#)
-	* [Алгоритмы и структуры данных в языке Python](#) - #
-	* [Операционные системы семейства UNIX и сетевые технологии](#) - #
-
+* [I курс II семестр (июнь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II)
+	* [Алгоритмы и структуры данных в языке Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Python) - docx/py
+	* [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Session%20II/Весь%20Unix.docx) - docx
+	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Session%20II/ОВС.docx) - docx
+	* [Философия](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Философия) - docx/pdf
+	* [Высшая математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Математика) - docx
 
 ## Студенческий совет | Информационный комитет
 * Задачи связанные с программированием:
