@@ -1,0 +1,12 @@
+BMW,M5,460,7
+BMW,X3,510,3
+BMW,Z4,340,3
+Toyota,Camry,301,2
+Toyota,RAV4,269,2
+Toyota,Land,272,4
+Lamborghini,aventador,515,17
+Lamborghini,huracan,449,12
+Lamborghini,centenario,770,138
+Infiniti,Q50,405,2
+Infiniti,QX70,238,4
+Infiniti,QX80,405,6 
