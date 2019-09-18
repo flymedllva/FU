@@ -21,7 +21,7 @@
 	* [История](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/История) - jpg/doc
 	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Sessions/ОВС) - doc/ppt
 	* [Право](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/ОВС) - docx
-	* [Финансы, Деньги, Кредит и Деньги, Кредит, Банки](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Финансы%2C%20Деньги%2C%20Кредит%20и%20Деньги%2C%20Кредит%2C%20Банки) - DOCX
+	* [Финансы, Деньги, Кредит и Деньги, Кредит, Банки](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Финансы%2C%20Деньги%2C%20Кредит%20и%20Деньги%2C%20Кредит%2C%20Банки) - docx
 * [I курс II семестр (июнь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II)
 	* [Алгоритмы и структуры данных в языке Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Python) - docx/py
 	* [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Session%20II/Весь%20Unix.docx) - docx
@@ -31,14 +31,14 @@
 
 ## Студенческий совет | Информационный комитет
 * Задачи связанные с программированием:
-	* [Сайт finball2019.ru для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/finball2019.ru) - HTML/CSS/JS/JPG
-	* [Рисование обложки VK для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/VK%20cover) - PHP
+	* [Сайт finball2019.ru для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/finball2019.ru) - html/css/js/jpg
+	* [Рисование обложки VK для Большого Студенческого Бала 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Programming/VK%20cover) - php
 * Дизайн
-	* [Логотип кафедры Анализа Рисков и Экономической Безопасности](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Логотип%20Кафедры%20Анализа%20Рисков%20и%20Экономической%20Безопасности) - AI/JPG
-	* [Большой Студенческий Бал 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Big%20Student%20Ball%202019) - JPG
-	* [Finrise 2018](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/FINRISE%2001.12.18) - JPG
-	* [Плакат ВузЭкоФест](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Eco%20Fest%20Poster) - JPG
-	* [Логотип Адская Кухня](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Hell%20Kitchen) - JPG
+	* [Логотип кафедры Анализа Рисков и Экономической Безопасности](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Логотип%20Кафедры%20Анализа%20Рисков%20и%20Экономической%20Безопасности) - ai/jpg
+	* [Большой Студенческий Бал 2019](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Big%20Student%20Ball%202019) - jpg
+	* [Finrise 2018](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/FINRISE%2001.12.18) - jpg
+	* [Плакат ВузЭкоФест](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Eco%20Fest%20Poster) - jpg
+	* [Логотип Адская Кухня](https://github.com/FlymeDllVa/FU/tree/master/SSt/Design/Hell%20Kitchen) - jpg
  
 
 
