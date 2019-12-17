@@ -1,0 +1,8 @@
+bin\Debug\Поезда.exe
+bin\Debug\Поезда.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Поезда.Form1.resources
+obj\Debug\Поезда.Properties.Resources.resources
+obj\Debug\Поезда.csproj.GenerateResource.Cache
+obj\Debug\Поезда.exe
+obj\Debug\Поезда.pdb

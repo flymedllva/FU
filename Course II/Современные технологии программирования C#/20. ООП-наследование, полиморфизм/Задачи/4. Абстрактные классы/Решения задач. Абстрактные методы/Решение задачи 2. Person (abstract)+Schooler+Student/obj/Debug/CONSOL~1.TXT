@@ -1,0 +1,22 @@
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Person-Schooler-Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Person-Schooler-Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Person-Schooler-Student\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Person-Schooler-Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Person-Schooler-Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+\\server1i\stud2011-2012\2bi1x2012\0_Tasks2bi1x2012\ООАиП\20. ООП-наследование, полиморф\Задачи\Virtual+Person-Schooler-Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+\\server1i\stud2011-2012\2bi1x2012\0_Tasks2bi1x2012\ООАиП\20. ООП-наследование, полиморф\Задачи\Virtual+Person-Schooler-Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+F:\C# по темам\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+F:\C# по темам\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+F:\C# по темам\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
+F:\C# по темам\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+F:\C# по темам\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\C# по темам\__ИСПРАВЛЕНО__\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\C# по темам\__ИСПРАВЛЕНО__\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+E:\C# по темам\__ИСПРАВЛЕНО__\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\C# по темам\__ИСПРАВЛЕНО__\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\C# по темам\__ИСПРАВЛЕНО__\20. ООП-наследование, полиморф\Задачи\4. Абстрактные классы\Решения задач. Абстрактные методы\Решение задачи 2. Person (abstract)+Schooler+Student\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache

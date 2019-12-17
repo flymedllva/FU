@@ -1,0 +1,2 @@
+E:\ООАП(2-еОбразование)\Мои программы\Склад компьютеров - 1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\ООАП(2-еОбразование)\Мои программы\Склад компьютеров - 1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

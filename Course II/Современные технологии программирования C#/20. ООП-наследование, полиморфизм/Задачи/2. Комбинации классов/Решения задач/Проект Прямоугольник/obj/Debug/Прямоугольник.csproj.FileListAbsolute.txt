@@ -1,0 +1,5 @@
+C:\Users\Sergey\Desktop\Проект Прямоугольник\bin\Debug\Прямоугольник.exe
+C:\Users\Sergey\Desktop\Проект Прямоугольник\bin\Debug\Прямоугольник.pdb
+C:\Users\Sergey\Desktop\Проект Прямоугольник\obj\Debug\Прямоугольник.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\Desktop\Проект Прямоугольник\obj\Debug\Прямоугольник.exe
+C:\Users\Sergey\Desktop\Проект Прямоугольник\obj\Debug\Прямоугольник.pdb

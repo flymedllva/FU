@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Гужов__2.Поезд">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAACAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Гужов__2.Вагон">
+    <Position X="1.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Гужов__2.ГрузовойПоезд">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Гужов__2.ПассажирскийПоезд">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Гужов__2.ГрузовойВагон">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAQAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Гужов__2.ПассажирскийВагон">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Поезд.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

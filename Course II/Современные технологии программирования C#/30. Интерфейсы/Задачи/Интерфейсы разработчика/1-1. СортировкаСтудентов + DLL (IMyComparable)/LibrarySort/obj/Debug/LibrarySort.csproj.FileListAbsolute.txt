@@ -1,0 +1,5 @@
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\1-1. СортировкаСтудентов + DLL (IMyComparable)\LibrarySort\bin\Debug\LibrarySort.dll
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\1-1. СортировкаСтудентов + DLL (IMyComparable)\LibrarySort\bin\Debug\LibrarySort.pdb
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\1-1. СортировкаСтудентов + DLL (IMyComparable)\LibrarySort\obj\Debug\ResolveAssemblyReference.cache
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\1-1. СортировкаСтудентов + DLL (IMyComparable)\LibrarySort\obj\Debug\LibrarySort.dll
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\1-1. СортировкаСтудентов + DLL (IMyComparable)\LibrarySort\obj\Debug\LibrarySort.pdb

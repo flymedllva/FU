@@ -1,0 +1,8 @@
+obj\Debug\Гужов №2.exe
+obj\Debug\Гужов №2.pdb
+bin\Debug\Гужов №2.exe
+bin\Debug\Гужов №2.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Гужов__2.Form1.resources
+obj\Debug\Гужов__2.Properties.Resources.resources
+obj\Debug\Гужов №2.csproj.GenerateResource.Cache

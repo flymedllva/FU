@@ -1,0 +1,20 @@
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\WindowsFormsApplication5\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы стандартные\Сортировка студентов по Name и Age (IComparable(T)+flag)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы стандартные\Сортировка студентов по Name и Age (IComparable(T)+flag)\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2. Использ. RadioButton для сорт. по  Name и Age (IComparable(T))\obj\Debug\WindowsFormsApplication5.exe
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2. Использ. RadioButton для сорт. по  Name и Age (IComparable(T))\obj\Debug\WindowsFormsApplication5.pdb
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\WindowsFormsApplication5.exe
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\WindowsFormsApplication5.pdb
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\bin\Debug\WindowsFormsApplication5.exe
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\bin\Debug\WindowsFormsApplication5.pdb
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\ResolveAssemblyReference.cache
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\WindowsFormsApplication5.Form1.resources
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы  стандартные\2-2. Использ. RadioButton для сорт. по  Name и Age (IComparer(T))\obj\Debug\WindowsFormsApplication5.csproj.GenerateResource.Cache

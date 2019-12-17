@@ -1,0 +1,5 @@
+C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\БезИндексатора\bin\Debug\БезИндексатора.exe
+C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\БезИндексатора\bin\Debug\БезИндексатора.pdb
+C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\БезИндексатора\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\БезИндексатора\obj\Debug\БезИндексатора.exe
+C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\БезИндексатора\obj\Debug\БезИндексатора.pdb

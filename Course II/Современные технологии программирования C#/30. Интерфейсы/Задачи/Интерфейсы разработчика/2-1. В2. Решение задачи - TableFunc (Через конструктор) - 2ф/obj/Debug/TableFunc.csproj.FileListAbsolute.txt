@@ -1,0 +1,36 @@
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\TableFunc.Form1.resources
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\TableFunc.Properties.Resources.resources
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\TableFunc.csproj.GenerateResource.Cache
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\bin\Debug\TableFunc.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\bin\Debug\TableFunc.pdb
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\TableFunc.exe
+C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\TableFunc\TableFunc\obj\Debug\TableFunc.pdb
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.exe
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.pdb
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\bin\Debug\TableFunc.exe
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\bin\Debug\TableFunc.pdb
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\ResolveAssemblyReference.cache
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.Form1.resources
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.Properties.Resources.resources
+G:\АБИК\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.csproj.GenerateResource.Cache
+F:\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.exe
+F:\C# ООАиП 3 курс\M3\Л3. Интерфейсы\1-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.pdb
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.exe
+F:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Образец)\TableFunc\obj\Debug\TableFunc.pdb
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\TableFunc.exe
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\TableFunc.pdb
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\bin\Debug\TableFunc.exe
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\bin\Debug\TableFunc.pdb
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\ResolveAssemblyReference.cache
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\TableFunc.Form1.resources
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\TableFunc.Properties.Resources.resources
+E:\C# по темам\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор)\obj\Debug\TableFunc.csproj.GenerateResource.Cache
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\TableFunc.exe
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\TableFunc.pdb
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\ResolveAssemblyReference.cache
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\TableFunc.Form1.resources
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\TableFunc.Properties.Resources.resources
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\obj\Debug\TableFunc.csproj.GenerateResource.Cache
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\bin\Debug\TableFunc.exe
+E:\C# по темам (10.2012)\100. Интерфейсы\Задачи\Интерфейсы разработчика\2-1. Решение задачи - TableFunc (Через конструктор) - копия\bin\Debug\TableFunc.pdb

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Корень.Form1" Collapsed="true">
+    <Position X="2" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>ACACAAAAASAAABAAAACAAABCIAA4AgAAEHAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Корень.Program" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Корень.Вычислитель">
+    <Position X="0.5" Y="1.75" Width="6" />
+    <TypeIdentifier>
+      <FileName>Вычислитель.cs</FileName>
+      <HashCode>AAAAAAQIAAAEAAAAAAIACAAAAAAAggAAAAgAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Корень.Формула1" BaseTypeListCollapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Формула1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Корень.Формула2" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>Формула2.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Корень.Properties.Resources" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Корень.Properties.Settings" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Корень.IФормула">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>IФормула.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Interface>
+</ClassDiagram>

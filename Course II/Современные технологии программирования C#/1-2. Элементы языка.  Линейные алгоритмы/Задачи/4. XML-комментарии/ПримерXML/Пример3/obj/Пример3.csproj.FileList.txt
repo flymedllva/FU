@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Пример3.exe
+bin\Debug\Пример3.pdb
+obj\Debug\Пример3.exe
+obj\Debug\Пример3.pdb
+bin\Debug\Пример3.XML

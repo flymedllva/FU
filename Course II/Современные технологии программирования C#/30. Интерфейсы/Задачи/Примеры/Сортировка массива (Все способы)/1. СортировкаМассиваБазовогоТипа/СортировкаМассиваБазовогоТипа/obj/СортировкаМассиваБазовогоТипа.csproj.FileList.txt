@@ -1,0 +1,8 @@
+bin\Debug\СортировкаМассиваБазовогоТипа.exe
+bin\Debug\СортировкаМассиваБазовогоТипа.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\СортировкаМассиваБазовогоТипа.Form1.resources
+obj\Debug\СортировкаМассиваБазовогоТипа.Properties.Resources.resources
+obj\Debug\СортировкаМассиваБазовогоТипа.csproj.GenerateResource.Cache
+obj\Debug\СортировкаМассиваБазовогоТипа.exe
+obj\Debug\СортировкаМассиваБазовогоТипа.pdb

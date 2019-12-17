@@ -1,0 +1,2 @@
+obj\Release\Интеграл.exe
+obj\Release\Интеграл.pdb

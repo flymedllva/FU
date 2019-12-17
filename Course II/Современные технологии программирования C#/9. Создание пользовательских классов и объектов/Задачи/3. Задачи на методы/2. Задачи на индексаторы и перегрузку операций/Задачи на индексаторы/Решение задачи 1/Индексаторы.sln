@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Индексаторы", "Индексаторы\Индексаторы.csproj", "{64B2EE6A-6B1D-4AF3-A83B-E36A2BC261A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "БезИндексатора", "БезИндексатора\БезИндексатора.csproj", "{6C3F97F7-15B7-42DC-BA0B-4F8AD28A6B3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B2EE6A-6B1D-4AF3-A83B-E36A2BC261A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B2EE6A-6B1D-4AF3-A83B-E36A2BC261A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B2EE6A-6B1D-4AF3-A83B-E36A2BC261A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B2EE6A-6B1D-4AF3-A83B-E36A2BC261A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3F97F7-15B7-42DC-BA0B-4F8AD28A6B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3F97F7-15B7-42DC-BA0B-4F8AD28A6B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3F97F7-15B7-42DC-BA0B-4F8AD28A6B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3F97F7-15B7-42DC-BA0B-4F8AD28A6B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

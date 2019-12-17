@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Корень.Properties.Resources.resources
+obj\Debug\Корень.csproj.GenerateResource.Cache
+obj\Debug\Корень.Form1.resources
+bin\Debug\Корень.exe
+bin\Debug\Корень.pdb
+obj\Debug\Корень.exe
+obj\Debug\Корень.pdb

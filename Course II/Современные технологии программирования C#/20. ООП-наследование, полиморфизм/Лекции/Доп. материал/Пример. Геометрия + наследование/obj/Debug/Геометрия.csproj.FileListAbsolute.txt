@@ -1,0 +1,12 @@
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия\Геометрия\bin\Debug\Геометрия.exe
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия\Геометрия\bin\Debug\Геометрия.pdb
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия\Геометрия\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия\Геометрия\obj\Debug\Геометрия.exe
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия\Геометрия\obj\Debug\Геометрия.pdb
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия1\Геометрия\obj\Debug\Геометрия.exe
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия1\Геометрия\obj\Debug\Геометрия.pdb
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия1\Геометрия\bin\Debug\Геометрия.exe
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия1\Геометрия\bin\Debug\Геометрия.pdb
+C:\Documents and Settings\Kurak\Рабочий стол\Геометрия1\Геометрия\obj\Debug\ResolveAssemblyReference.cache
+E:\C# по темам\30. ООП-наследование, полиморф\Лекции\Доп. материал\Пример. Геометрия + наследование\obj\Debug\Геометрия.exe
+E:\C# по темам\30. ООП-наследование, полиморф\Лекции\Доп. материал\Пример. Геометрия + наследование\obj\Debug\Геометрия.pdb

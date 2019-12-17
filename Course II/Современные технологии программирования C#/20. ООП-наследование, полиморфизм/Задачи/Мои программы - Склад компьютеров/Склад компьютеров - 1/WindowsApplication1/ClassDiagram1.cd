@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="9.75" />
+  <Class Name="WindowsApplication1.Form1" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>/6AAAAAAISAAABSAEACAABhCIEg4ABAAELAAAAAAAII=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Video">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.mainpart">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAgAAAIAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Extra">
+    <Position X="3" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Computer">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAASAhAEAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Warehouse">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Form1.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
