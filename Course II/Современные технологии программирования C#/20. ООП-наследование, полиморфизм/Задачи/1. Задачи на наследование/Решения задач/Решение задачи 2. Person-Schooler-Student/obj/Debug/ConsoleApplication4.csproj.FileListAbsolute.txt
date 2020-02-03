@@ -1,7 +1,0 @@
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
-E:\C# по темам\30. ООП-наследование, полиморф\Задачи\1. Задачи на наследование\Решения задач\Решение задачи 2. Person-Schooler-Student\obj\Debug\ConsoleApplication4.exe
-E:\C# по темам\30. ООП-наследование, полиморф\Задачи\1. Задачи на наследование\Решения задач\Решение задачи 2. Person-Schooler-Student\obj\Debug\ConsoleApplication4.pdb

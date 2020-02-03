@@ -1,5 +1,0 @@
-bin\Debug\Композиция_Класс.exe
-bin\Debug\Композиция_Класс.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Композиция_Класс.exe
-obj\Debug\Композиция_Класс.pdb

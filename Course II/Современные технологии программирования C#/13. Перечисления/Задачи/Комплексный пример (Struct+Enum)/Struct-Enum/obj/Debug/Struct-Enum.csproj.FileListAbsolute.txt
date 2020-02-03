@@ -1,6 +1,0 @@
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\bin\Debug\Struct-Enum.exe.config
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\bin\Debug\Struct-Enum.exe
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\bin\Debug\Struct-Enum.pdb
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\obj\Debug\Struct-Enum.csprojResolveAssemblyReference.cache
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\obj\Debug\Struct-Enum.exe
-C:\Users\shteacher\Documents\Visual Studio 2013\Projects\Struct-Enum\Struct-Enum\obj\Debug\Struct-Enum.pdb

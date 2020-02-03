@@ -1,6 +1,0 @@
-E:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\obj\Debug\ResolveAssemblyReference.cache
-F:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\obj\Debug\ResolveAssemblyReference.cache
-F:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\bin\Debug\DynamList2D.exe
-F:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\bin\Debug\DynamList2D.pdb
-F:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\obj\Debug\DynamList2D.exe
-F:\C# ООАиП 3 курс\M3\Л7. Перегрузка операций. Индексаторы\Решение задачи 1. List2D обобщ\DinamList2D\obj\Debug\DynamList2D.pdb

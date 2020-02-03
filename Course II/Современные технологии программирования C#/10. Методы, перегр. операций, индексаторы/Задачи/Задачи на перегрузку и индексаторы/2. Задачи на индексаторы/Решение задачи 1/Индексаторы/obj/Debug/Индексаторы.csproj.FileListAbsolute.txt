@@ -1,5 +1,0 @@
-C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\Индексаторы\bin\Debug\Индексаторы.exe
-C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\Индексаторы\bin\Debug\Индексаторы.pdb
-C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\Индексаторы\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\Индексаторы\obj\Debug\Индексаторы.exe
-C:\Users\iclass\Documents\Visual Studio 2008\Projects\Индексаторы\Индексаторы\obj\Debug\Индексаторы.pdb

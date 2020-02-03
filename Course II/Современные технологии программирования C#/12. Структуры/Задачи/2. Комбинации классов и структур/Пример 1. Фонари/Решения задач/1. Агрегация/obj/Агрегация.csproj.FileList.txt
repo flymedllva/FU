@@ -1,5 +1,0 @@
-bin\Debug\Агрегация.exe
-bin\Debug\Агрегация.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Агрегация.exe
-obj\Debug\Агрегация.pdb

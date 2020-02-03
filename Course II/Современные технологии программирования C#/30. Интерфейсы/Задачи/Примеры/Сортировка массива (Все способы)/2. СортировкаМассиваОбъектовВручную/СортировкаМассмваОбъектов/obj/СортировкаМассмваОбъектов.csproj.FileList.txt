@@ -1,8 +1,0 @@
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\СортировкаМассиваОбъектов.Form1.resources
-obj\Debug\СортировкаМассмваОбъектов.Properties.Resources.resources
-obj\Debug\СортировкаМассмваОбъектов.csproj.GenerateResource.Cache
-bin\Debug\СортировкаМассмваОбъектов.exe
-bin\Debug\СортировкаМассмваОбъектов.pdb
-obj\Debug\СортировкаМассмваОбъектов.exe
-obj\Debug\СортировкаМассмваОбъектов.pdb

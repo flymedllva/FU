@@ -1,8 +1,0 @@
-bin\Debug\Интеграл.exe
-bin\Debug\Интеграл.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Интеграл.Form1.resources
-obj\Debug\Интеграл.Properties.Resources.resources
-obj\Debug\Интеграл.csproj.GenerateResource.Cache
-obj\Debug\Интеграл.exe
-obj\Debug\Интеграл.pdb

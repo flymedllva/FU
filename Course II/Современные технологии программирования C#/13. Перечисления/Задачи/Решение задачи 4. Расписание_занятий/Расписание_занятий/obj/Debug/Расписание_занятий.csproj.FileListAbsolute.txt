@@ -1,5 +1,0 @@
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Расписание_занятий\Расписание_занятий\bin\Debug\Расписание_занятий.exe
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Расписание_занятий\Расписание_занятий\bin\Debug\Расписание_занятий.pdb
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Расписание_занятий\Расписание_занятий\obj\Debug\ResolveAssemblyReference.cache
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Расписание_занятий\Расписание_занятий\obj\Debug\Расписание_занятий.exe
-C:\Documents and Settings\гор\Мои документы\Visual Studio 2008\Projects\Расписание_занятий\Расписание_занятий\obj\Debug\Расписание_занятий.pdb
