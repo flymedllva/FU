@@ -59,7 +59,7 @@
 * [II курс IV семестр (июнь 2020)](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV)
     * Иностранный язык
     * [Анализ данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Анализ%20данных)
-    * [Математическое и имитационное моделирование](#)
+    * [Математическое и имитационное моделирование](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Математическое%20и%20имитиционное%20моделирование)
     * Современные технологии программирования C#
     * [Системы управления базами данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Oracle%20СУБД)
     * [Информационные технологии бизнес аналитики](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Информационные%20технологии%20бизнес%20аналитики)
