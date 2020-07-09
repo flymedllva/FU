@@ -6,6 +6,13 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/flymedllva/fu/badge)](https://www.codefactor.io/repository/github/flymedllva/fu)
 [![BCH compliance](https://bettercodehub.com/edge/badge/FlymeDllVa/FU?branch=master)](https://bettercodehub.com/)	
 
+## Проекты
+* [Боты расписания](https://bot.fa.ru) ВКонтакте и Telegram
+* [Календарь расписания](https://schedule.fa.ru)
+
+## Курсовые
+* [II курс](https://github.com/FlymeDllVa/BuildingPlan) Building plan using Svelte and ArangoDB
+
 ## 1 Курс (2018-2019)
 * Основы программирования:
 	* [Практические по Python](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Python/Programs)
@@ -19,17 +26,17 @@
 ## 2 Курс (2019-2020)
 
 * [Анализ данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Анализ%20данных)
-* [Банковские информационные системы](#)
-* [Системы управления базами данных](#)
+* [Банковские информационные системы](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Банковские%20информационные%20системы)
+* [Системы управления базами данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Oracle%20СУБД)
 * [Обработка данных и моделирование в Microsoft Excel](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Обработка%20данных%20и%20моделирование%20в%20Microsoft%20Excel)
 * [Современные технологии программирования C#](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Современные%20технологии%20программирования%20C%23)
-* [Управление качеством программных систем](#)
+* [Управление качеством программных систем](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Управление%20качеством%20программных%20систем)
 * [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/UNIX)
-* [Бухгалтерские информационные системы](#)
-* [Математическое и имитационное моделирование](#)
-* [Программирование в среде R](#)
-* [Программирование на VBA](#)
-* [Информационные технологии бизнес аналитики](#)
+* [Бухгалтерские информационные системы](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Банковские%20информационные%20системы)
+* [Математическое и имитационное моделирование](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Математическое%20и%20имитиционное%20моделирование)
+* [Программирование в среде R](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/R)
+* Программирование на VBA
+* [Информационные технологии бизнес аналитики](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Информационные%20технологии%20бизнес%20аналитики)
 
 ## Сессия
 * [I курс I семестр (декабрь 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I)
@@ -44,17 +51,18 @@
 	* [Организация вычислительных систем](https://github.com/FlymeDllVa/FU/blob/master/Course%20I/Session%20II/ОВС.docx)
 	* [Философия](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Философия)
 	* [Высшая математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20II/Математика)
-* [II курс III семестр (декабрь 2019 - январь 2020)](#)
+* [II курс III семестр (декабрь 2019 - январь 2020)](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20III)
     * [Операционные системы семейства UNIX и сетевые технологии](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/UNIX)
-    * [Банковские информационные системы](#)
+    * [Банковские информационные системы](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20III/Банковские%20информационные%20системы)
     * [Обработка данных и моделирование в Microsoft Excel](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Обработка%20данных%20и%20моделирование%20в%20Microsoft%20Excel)
-    * [Системы управления базами данных](#)
-* [II курс IV семестр (июнь 2020)](#)
-    * [Иностранный язык](#)
-    * [Анализ данных](#)
+    * [Системы управления базами данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20III/Системы%20управления%20базами%20данных)
+* [II курс IV семестр (июнь 2020)](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV)
+    * Иностранный язык
+    * [Анализ данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Анализ%20данных)
     * [Математическое и имитационное моделирование](#)
-    * [Современные технологии программирования C#](#)
-    * [Системы управления базами данных](#)
+    * Современные технологии программирования C#
+    * [Системы управления базами данных](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Oracle%20СУБД)
+    * [Информационные технологии бизнес аналитики](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Информационные%20технологии%20бизнес%20аналитики)
 
 ## Студенческий совет | Информационный комитет
 * Задачи связанные с программированием:
