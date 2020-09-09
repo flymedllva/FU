@@ -43,6 +43,8 @@
 * [Эконометрика](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Эконометрика)
 * [Технологии анализа данных и машинное обучение](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Технологии%20анализа%20данных%20и%20машинное%20обучение)
 * [Финансовая математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Финансовая%20математика)
+* [Системы управления бизнес-процессами](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Системы%20управления%20бизнес-процессами)
+* [Бухгалтерские информационные системы](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Бухгалтерские%20информационные%20системы)
 
 ## Сессия
 * [I курс I семестр (декабрь 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I)
