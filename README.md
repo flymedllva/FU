@@ -38,6 +38,12 @@
 * Программирование на VBA
 * [Информационные технологии бизнес аналитики](https://github.com/FlymeDllVa/FU/tree/master/Course%20II/Session%20IV/Информационные%20технологии%20бизнес%20аналитики)
 
+## 3 Курс (2020-2021)
+
+* [Эконометрика](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Эконометрика)
+* [Технологии анализа данных и машинное обучение](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Технологии%20анализа%20данных%20и%20машинное%20обучение)
+* [Финансовая математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20III/Финансовая%20математика)
+
 ## Сессия
 * [I курс I семестр (декабрь 2018 - январь 2019)](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I)
 	* [Дискретная математика](https://github.com/FlymeDllVa/FU/tree/master/Course%20I/Session%20I/Дискретная%20математика)
