@@ -1,0 +1,40 @@
+%! Author = flyme
+%! Date = 10.09.2020
+
+% Preamble
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage[T2A]{fontenc}
+\usepackage{systeme}
+
+% Document
+
+
+\begin{document}
+
+  \section*{Задача 1}\label{sec:task-1}
+  У положил на годовой депозит 30800 \text{K} под 7.5\% годовых.
+  Банк начисляет проценты ежемесячно.
+  Не капитилизируется.
+  Сколько недополучит/переполучит клиент через год если в договоре величина процентов ежемесячного получения указана
+  в сумме 189 \text{K}
+  \newline
+
+
+  \begin{enumerate}
+    \item $D=\dfrac{30800*7,5}{100}=192,5$
+    \item $D=\dfrac{30800*7,5*30}{365*100}=189,863\apeq189$
+    \item $d=\dfrac{189*12}{30800}=6,073636$
+  \end{enumerate}
+  
+  \section{Задача 2}\label{sec:task-2}
+  Вексель стоимость 100000 руб.
+  учитывается за 4 года до погашения по сложной учетной ставке 15\% годовых
+  Найти сумму получаемую держателем и величину дисконта.
+\end{document}

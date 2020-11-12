@@ -1,0 +1,413 @@
+%! Author = flyme
+%! Date = 10.09.2020
+
+% Preamble
+\documentclass[11pt,a4paper]{article}
+
+% Packages
+\usepackage[utf8]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath}
+\usepackage{natbib}
+\usepackage{graphicx}
+\usepackage[T2A]{fontenc}
+\usepackage{systeme}
+
+% Document
+
+
+\begin{titlepage}
+  \title{Задача 1. Модель формирования национального доход}
+  \author{Гриднев Дмитрий Владимирович }
+  \date{2020}
+\end{titlepage}
+
+\begin{document}
+  \begin{titlepage}
+    \begin{center}
+      \large
+
+      \textbf{Федеральное государственное образовательное бюджетное учреждение высшего образования}
+      \vspace{0.5cm}
+
+      Финансовый университет при Правительстве Российской Федерации
+      \vspace{0.25cm}
+
+      Факультет информационных технологий и анализа больших данных
+
+      Департамент анализа данных и машинного обучения
+      \vfill
+
+      Гриднев Дмитрий Владимирович, 3 курс, ПИ18-1
+      \vfill
+
+      \textsc{Работа по курсу}\\[5mm]
+
+      {\LARGE Эконометрика}
+    \bigskip
+
+  \end{center}
+  \vfill
+
+  \newlength{\ML}
+  \settowidth{\ML}{«\underline{\hspace{0.7cm}}» \underline{\hspace{2cm}}}
+
+  \hfill\begin{minipage}{0.6\textwidth}
+    Преподаватель\\
+    Смирнова Елена Константиновна\\
+  \end{minipage}%
+  \vfill
+
+    \vspace{2cm}
+  \begin{center}
+    Москва, 2020 г.
+  \end{center}
+  \end{titlepage}
+
+  \section{Задача 1. Модель формирования национального дохода (Дж. М. Кейнс)}\label{sec:task1}
+
+  Y, C -- зависимые переменные\\
+  I -- независимые переменные\\
+
+  \systeme{
+    C_T=\small{a}Y_{T-1}+b+\varepsilon@{b>0,\quad 0<a<1}, Y_T=C_T+I_T+U\_T
+  }
+  \newline
+
+  $Y_T, C_T$ -- зависимые переменные (y)\\
+  $I_T$ -- независимые переменные (x)
+  \newline
+
+  Структурная форма в матричном виде: $$AY + BX =U$$
+
+  \systeme{
+    C_T-0*Y_T-a*Y_{T-1}-b+0*I_T=\varepsilon_T, -C_T+Y_T+0*Y_{T-1}-0*X_0-I=U_T
+  }
+
+  \begin{vmatrix}
+    1 & 0\\
+    1 & 1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    C_T\\
+    Y_T
+  \end{vmatrix}+
+  \begin{vmatrix}
+    -a & -b & 0\\
+    0 & 0 & -1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    Y_{T-1}\\
+    1\\
+    1-
+  \end{vmatrix}=
+  \begin{vmatrix}
+    \varepsilon_T\\
+    U-
+  \end{vmatrix}
+
+  Приведенная форма:
+
+  A^{-1}B=M\\
+  Y=MX+A^{-1}U\\
+
+  \begin{vmatrix}
+    1 & 0\\
+    1 & 1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    -a & -b & 0\\
+    0 & 0 & -1
+  \end{vmatrix}=
+  \begin{vmatrix}
+    a & b & 0\\
+    a & b & 1
+  \end{vmatrix}\\
+
+  \begin{vmatrix}
+    C_T\\
+    Y_T
+  \end{vmatrix}=
+  \begin{vmatrix}
+    a & b & 0\\
+    a & b & 1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    Y_{T-1}\\
+    1\\
+    I_T
+  \end{vmatrix}+
+  \begin{vmatrix}
+    1 & 0\\
+    1 & 1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    \varepsilon_T\\
+    U_T
+  \end{vmatrix}
+
+  \section{Задача 2. Макромодель Самуэльсона-Хикса (модель делового цикла экономики}\label{sec:task2}
+
+  $Y_t, C_t, I_t, G_t$ -- зависимые переменные\\
+  $Y_{t-1}, Y_{t-2}, G_{t-1}, x_0 $ -- независмые переменные\\
+
+  \systeme{
+    C_t=a*Y_{t-1}+b+\varepsilon_t@{0<a<1,b>0},
+    I_t=c*(Y_{t-1}-Y_{t-2})+U_t@{c>0},
+    G_t=d*G_{t-1}@{d>1},
+    Y_t=C_t+I_t+G_t@{- $ тождество$}
+  }\\
+
+  Структурная форма в матричном виде:
+
+  \begin{equation*}
+   \begin{cases}
+     C_t-0*I_t-0*G_T-0*Y_t-a*Y_{t-1}-0*Y_{t-2}-0*G_{t-1}-b=\varepsilon_t,
+     \\
+     0*C_t+I_t-0*G_t-0*Y_t-c*Y_{t-1}+c*Y_{t-2}-0*G_{t-1}-0=U_t,
+     \\
+     0*C_t-0*I_t+1*G_t-0*Y_t-0*Y_{t-2}-d*G_{t-1}-0=V_t,
+     \\
+     -1*C_t-1*I_t-1*G_t+1*Y_t-0*Y_{t-1}-0*Y_{t-2}-0*G_{t-1}-b=0
+   \end{cases}
+  \end{equation*}\\
+
+  Приведенная форма:
+  \newline\\
+  \begin{vmatrix}
+    1 & 0 & 0 & 0\\
+    0 & 1 & 0 & 0\\
+    0 & 0 & 1 & 0\\
+    -1 & -1 & -1 & 1\\
+  \end{vmatrix}*
+  \begin{vmatrix}
+    C_t\\
+    I_t\\
+    G_t\\
+    Y_t
+  \end{vmatrix}+
+  \begin{vmatrix}
+    -a & 0 & 0 & -b\\
+    -c & c & 0 & 0\\
+    0 & 0 & -d 0\\
+    0 & 0 & 0 & 0
+  \end{vmatrix}*
+  \begin{vmatrix}
+    Y_{t-1}\\
+    Y_{t-2}\\
+    G_{t-1}\\
+    1
+  \end{vmatrix}=
+  \begin{vmatrix}
+    \varepsilon_t\\
+    U_t\\
+    V_t\\
+    0
+  \end{vmatrix}
+  \\
+
+  Приведенная форма:
+  \newline
+  $$M=-A^{-1}*B$$
+  $$Y=MX+A^{-1}*V$$
+
+  M=-\begin{vmatrix}
+    1 & 0 & 0 & 0\\
+    0 & 1 & 0 & 0\\
+    0 & 0 & 1 & 0\\
+    1 & 1 & 1 & 1\\
+  \end{vmatrix}*\begin{vmatrix}
+                  -a & 0 & 0 & -b\\
+                  -c & c & 0 & 0\\
+                  0 & 0 & -d & 0\\
+                  0 & 0 & 0 & 0
+  \end{vmatrix}=\begin{vmatrix}
+                  -a & 0 & 0 & -b\\
+                  -c & c & 0 & 0\\
+                  -a & 0 & -d & 0\\
+                  -a-c & c & d & -b
+  \end{vmatrix}=\begin{vmatrix}
+                  a & 0 & 0 & b\\
+                  c & c & 0 & 0\\
+                  0 & 0 & d & 0\\
+                  a+c & -c & d & b
+  \end{vmatrix}\\
+
+  \newline\\
+  \begin{vmatrix}
+    C_t\\
+    I_t\\
+    G_t\\
+    Y_t
+  \end{vmatrix}=
+  \begin{vmatrix}
+    a & 0 & 0 b\\
+    c & -c & 0 & 0\\
+    0 & 0 & d & 0\\
+    a+c & -c & d & b
+  \end{vmatrix}*
+  \begin{vmatrix}
+    Y_{t-1}\\
+    Y_{t-2}\\
+    G_{t-1}\\
+    1
+  \end{vmatrix}+
+  \begin{vmatrix}
+    1 & 0 & 0 & 0\\
+    0 & 1 & 0 & 0\\
+    0 & 0 & 1 & 0\\
+    1 & 1 & 1 & 1
+  \end{vmatrix}*
+  \begin{vmatrix}
+    \varepsilon_t\\
+    U_t\\
+    V_t\\
+    0
+  \end{vmatrix}
+
+  \newline
+  \section{Задача 3. Модель производственной функции Кобба-Дугласа}\label{sec:task3}
+
+Труд (L) и капитал (K) служат основными факторами количества (Y) выпускаемой продукции.
+Требуется составить спецификацию модели производственной функ-ции, которая даёт возможность объяснять величину выпуска продукции уровнем капитала и живого труда.\\
+  Экономические законы:
+  \begin{enumerate}
+    \item Каждый из факторов производства необходим в том смысле, что если K = 0, или L = 0, то объем выпуска Y = 0;
+    \item Уровень выпуска возрастает вместе с ростом каждого из факторов;
+    \item Если один из факторов фиксирован, а другой возрастает, то каждая допол-нительная (предельная) единица возрастающего фактора менее полезна (в смысле прироста выпуска продукции), чем предыдущая единица (закон Госсена об убыва-нии предельной полезности);
+    \item Имеет место постоянство отдачи от масштаба, то есть при увеличении каж-дого из факторов производства в $\mu$ раз объем выпуска тоже возрастает в $\mu$ раз.
+  \end{enumerate}
+
+  \newline
+  $Y_t=(K_t^a-L_t^b)\cdotM+\varepsilon_t, \space\space
+  \begin{vmatrix}
+      a + b = 1\\
+      0 \geq a \geq 1\\
+      0 \geq b \geq 1
+  \end{vmatrix}$
+
+  \section{Задача 4. Модель корректиров¬ки размера дивидендов Линтнера}\label{sec:task4}
+
+  \begin{equation*}
+   \begin{cases}
+     $D_t^* g * \Pi_t$ – тождество\\
+     $D_t D_{t-1}=a(D_t^*-D_{t-1}^{\varepsilont}), a>0$
+   \end{cases}
+  \end{equation*}
+  \begin{equation*}
+   \begin{cases}
+     $D_t^*=g\Pi_t$\\
+     $D_t=a(g\dot\Pi_t-D_{t-1})+\varepsilon_t+D+{t-1}$
+   \end{cases}
+  \end{equation*}
+  \begin{equation*}
+   \begin{cases}
+     $\Pi=g\Pi_t$\\
+     $D_t=ag\Pt_t+(1-g)$
+   \end{cases}
+  \end{equation*}
+  $Y=MX+0$\\
+
+  $
+  \begin{vmatrix}
+    D_t^*\\
+    D_t
+  \end{vmatrix}=
+  \begin{vmatrix}
+    g & 0\\
+    ag(1-a)
+  \end{vmatrix}+
+  \begin{vmatrix}
+    \Pi_t\\
+    D_{t-1}
+  \end{vmatrix}+
+  \begin{vmatrix}
+    0\\
+    \varepsilon_t
+  \end{vmatrix}
+  $\\
+
+  \newline\newline
+  $R_t=a_1+b_12*Y_t+b_14*M_t$\\
+  $Y_t=a_2+b_21*R_t+b_23*I_t+b_25*G_t$\\
+  $I_t=a_3+b_31*R_t$\\
+
+  \begin{vmatrix}
+    -1 * b_{11} & 0\\
+    b_{21} & 1 & -b_{23}\\
+    -b_{31} & 0 & 1
+  \end{vmatrix}+
+  \begin{vmatrix}
+    R_t\\
+    Y_t\\
+    T_t
+  \end{vmatrix}+
+  \begin{vmatrix}
+    a_1 & b_{14} & 0\\
+    a_1 & 0 & b_{23}\\
+    a_3 & 0 & 0
+  \end{vmatrix}+
+  \begin{vmatrix}
+    1\\
+    M_1\\
+    G_T
+  \end{vmatrix}=
+  \begin{vmatrix}
+    0\\
+    0\\
+    0
+  \end{vmatrix}\\
+
+  A^{-1}=$\dfrac{1}{(b_{21}b_{12}-b_{31}b_{12}b_{23}-1)}$*
+  \begin{bmatrix}
+    -1 & -b_{12} & -b_{12}b_{23}\\
+    -b_{21}-b_{b31} & b_{23}-1 & -b_{23}\\
+    -b_{32} & -b_{21}b_{12} & b_{21}b_{12}-1
+  \end{bmatrix}
+  \newline
+
+  2.3\\
+
+  \begin{equation*}
+   \begin{cases}
+    $Y_t=C_t+I_t+Q_t+UX_t$ - тожество\\
+    C_t=a(Y_t-T_{t-1})+b+U_t\\
+    I_t=f+pR+\varepsilon_t, p<0\\
+    L_t=dR+eY+Vt, d<0, e>0\\
+    $R_t=\dfrac{M_t}{P_t}$ - тождество\\
+    $NX_t=gE_t+W_{t}, g<0$\\
+    $CE_t=hR+M_T$, h>0\\
+    $CF_t=NX - тождество$
+   \end{cases}
+  \end{equation*}
+
+  \begin{vmatrix}
+
+  \end{vmatrix}
+  \begin{vmatrix}
+    Y_t\\
+    C_t\\
+    I_t\\
+    L_t\\
+    R_t\\
+    NX_t\\
+    CE_t\\
+    CF_t
+  \end{vmatrix}
+
+
+
+
+
+
+
+
+%  Решение квадратного уравнения \(ax^2+bx+c=0\):
+%  \begin{equation}
+%    \label{eq:solv}
+%    x_{1,2}=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
+%  \end{equation}
+%
+%  Можно сослаться на уравнение~\eqref{eq:solv}.
+
+\end{document}

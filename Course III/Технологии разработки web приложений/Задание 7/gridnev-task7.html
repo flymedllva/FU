@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta name='viewport' content='width=device-width,initial-scale=1'>
+
+	<title>Svelte app</title>
+
+	<link rel='icon' type='image/png' href='/favicon.png'>
+
+	<link rel='stylesheet' href='https://cdn.datatables.net/1.10.22/css/jquery.dataTables.min.css'>
+
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdn.datatables.net/1.10.22/js/jquery.dataTables.min.js"></script>
+	<script src="https://cdn.datatables.net/plug-ins/1.10.21/api/processing().js"></script>
+	<style>
+		html, body {
+			position: relative;
+			width: 100%;
+			height: 100%;
+		}
+
+		body {
+			color: #333;
+			margin: 0;
+			padding: 8px;
+			box-sizing: border-box;
+			font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+		}
+
+		a {
+			color: rgb(0,100,200);
+			text-decoration: none;
+		}
+
+		a:hover {
+			text-decoration: underline;
+		}
+
+		a:visited {
+			color: rgb(0,80,160);
+		}
+
+		label {
+			display: block;
+		}
+
+		input, button, select, textarea {
+			font-family: inherit;
+			font-size: inherit;
+			-webkit-padding: 0.4em 0;
+			padding: 0.4em;
+			margin: 0 0 0.5em 0;
+			box-sizing: border-box;
+			border: 1px solid #ccc;
+			border-radius: 2px;
+		}
+
+		input:disabled {
+			color: #ccc;
+		}
+
+		button {
+			color: #333;
+			background-color: #f4f4f4;
+			outline: none;
+		}
+
+		button:disabled {
+			color: #999;
+		}
+
+		button:not(:disabled):active {
+			background-color: #ddd;
+		}
+
+		button:focus {
+			border-color: #666;
+		}
+	</style>
+	<style>
+		main.svelte-16y7o7n{padding:100px}.container.svelte-16y7o7n{background-color:white;padding:20px;border-radius:25px;box-shadow:0 0 4px rgba(0, 0, 0, 0.25)}
+	</style>
+</head>
+
+<body>
+<script>
+	var app=function(){"use strict";function t(){}function n(t){return t()}function e(){return Object.create(null)}function o(t){t.forEach(n)}function r(t){return"function"==typeof t}function a(t,n){return t!=t?n==n:t!==n||t&&"object"==typeof t||"function"==typeof t}function s(t){t.parentNode.removeChild(t)}let c;function i(t){c=t}function u(t){(function(){if(!c)throw new Error("Function called outside component initialization");return c})().$$.on_mount.push(t)}const l=[],f=[],d=[],h=[],p=Promise.resolve();let $=!1;function m(t){d.push(t)}let b=!1;const g=new Set;function y(){if(!b){b=!0;do{for(let t=0;t<l.length;t+=1){const n=l[t];i(n),_(n.$$)}for(i(null),l.length=0;f.length;)f.pop()();for(let t=0;t<d.length;t+=1){const n=d[t];g.has(n)||(g.add(n),n())}d.length=0}while(l.length);for(;h.length;)h.pop()();$=!1,b=!1,g.clear()}}function _(t){if(null!==t.fragment){t.update(),o(t.before_update);const n=t.dirty;t.dirty=[-1],t.fragment&&t.fragment.p(t.ctx,n),t.after_update.forEach(m)}}const w=new Set;function v(t,n){-1===t.$$.dirty[0]&&(l.push(t),$||($=!0,p.then(y)),t.$$.dirty.fill(0)),t.$$.dirty[n/31|0]|=1<<n%31}function x(a,u,l,f,d,h,p=[-1]){const $=c;i(a);const b=u.props||{},g=a.$$={fragment:null,ctx:null,props:h,update:t,not_equal:d,bound:e(),on_mount:[],on_destroy:[],before_update:[],after_update:[],context:new Map($?$.$$.context:[]),callbacks:e(),dirty:p,skip_bound:!1};let _=!1;if(g.ctx=l?l(a,b,((t,n,...e)=>{const o=e.length?e[0]:n;return g.ctx&&d(g.ctx[t],g.ctx[t]=o)&&(!g.skip_bound&&g.bound[t]&&g.bound[t](o),_&&v(a,t)),n})):[],g.update(),_=!0,o(g.before_update),g.fragment=!!f&&f(g.ctx),u.target){if(u.hydrate){const t=function(t){return Array.from(t.childNodes)}(u.target);g.fragment&&g.fragment.l(t),t.forEach(s)}else g.fragment&&g.fragment.c();u.intro&&((x=a.$$.fragment)&&x.i&&(w.delete(x),x.i(k))),function(t,e,a){const{fragment:s,on_mount:c,on_destroy:i,after_update:u}=t.$$;s&&s.m(e,a),m((()=>{const e=c.map(n).filter(r);i?i.push(...e):o(e),t.$$.on_mount=[]})),u.forEach(m)}(a,u.target,u.anchor),y()}var x,k;i($)}function k(n){let e;return{c(){var t,n,o,r;t="main",e=document.createElement(t),e.innerHTML='<div class="container svelte-16y7o7n"><table id="dt-table"><thead><tr><th>ID</th> \n\t\t\t\t<th>Имя объекта</th> \n\t\t\t\t<th>Адрес</th> \n\t\t\t\t<th>Сайт</th></tr></thead> \n\t\t\t<tbody></tbody></table></div>',n=e,o="class",null==(r="svelte-16y7o7n")?n.removeAttribute(o):n.getAttribute(o)!==r&&n.setAttribute(o,r)},m(t,n){!function(t,n,e){t.insertBefore(n,e||null)}(t,e,n)},p:t,i:t,o:t,d(t){t&&s(e)}}}function E(t,n,e){let{name:o}=n,r=void 0;return u((()=>{r=window.$("#dt-table").DataTable({processing:!0,responsive:!0}),r.processing(!0)})),async function(){const t=await fetch("https://apidata.mos.ru/v1/datasets/886/rows?&$orderby=Number&api_key=0235c3e482940f862217a646e7c479f5"),n=await t.json();void 0===r&&(r=window.$("#dt-table").DataTable()),n.forEach((t=>{r.row.add([t.global_id,t.Cells.ObjectName,t.Cells.Address,t.Cells.WebSite]).draw(!1)})),r.processing(!1)}(),t.$$set=t=>{"name"in t&&e(0,o=t.name)},[o]}return new class extends class{$destroy(){!function(t,n){const e=t.$$;null!==e.fragment&&(o(e.on_destroy),e.fragment&&e.fragment.d(n),e.on_destroy=e.fragment=null,e.ctx=[])}(this,1),this.$destroy=t}$on(t,n){const e=this.$$.callbacks[t]||(this.$$.callbacks[t]=[]);return e.push(n),()=>{const t=e.indexOf(n);-1!==t&&e.splice(t,1)}}$set(t){var n;this.$$set&&(n=t,0!==Object.keys(n).length)&&(this.$$.skip_bound=!0,this.$$set(t),this.$$.skip_bound=!1)}}{constructor(t){super(),x(this,t,E,k,a,{name:0})}}({target:document.body,props:{name:"world"}})}();
+</script>
+</body>
+</html>
