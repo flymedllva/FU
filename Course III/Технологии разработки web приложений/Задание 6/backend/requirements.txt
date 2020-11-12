@@ -3,7 +3,7 @@ fastapi
 fastapi-utils
 gunicorn
 uvicorn
-ujson
+ujson==4.0.1
 pydantic
 python-multipart
 uvloop
