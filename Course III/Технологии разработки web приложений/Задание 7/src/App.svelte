@@ -3,6 +3,7 @@
 	import { onMount } from 'svelte';
 
 	let table = undefined
+	
 	onMount(() => {
 		table = window.$("#dt-table").DataTable(
 				{

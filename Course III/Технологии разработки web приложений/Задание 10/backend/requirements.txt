@@ -1,0 +1,10 @@
+wheel
+fastapi
+fastapi-utils
+gunicorn
+uvicorn
+ujson
+pydantic
+python-multipart
+uvloop
+httptools

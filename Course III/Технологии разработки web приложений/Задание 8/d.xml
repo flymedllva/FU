@@ -1,0 +1,6150 @@
+<?xml version="1.1" encoding="windows-1251"?>
+<catalog>
+    <array>
+        <global_id>167595351</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>88.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>98.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>94.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>93.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>90.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>86.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>94.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>97.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>107.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>103.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>100.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>103.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>98.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>93.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>95.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>96.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>100.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>95.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>89.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>91.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>93.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>98.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>93.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>94.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>96.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>83.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>98.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>100.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>120.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>119.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>109.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>109.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>107.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>107.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>105.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>105.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>103.2</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс промышленного производства</NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Расширенные доклад</SubSource>
+        <ID>1</ID>
+        <AttributeOfIndex>По полному кругу организаций</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Индекс промышленного производства, в % к соответствующему периоду предыдущего года</Name>
+    </array>
+    <array>
+        <global_id>167595352</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>479816.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>575763.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>590717.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>670106.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>598513.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>589530.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>593478.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>792764.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>690680.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>793611.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>795312.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>950213.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>834887.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>780183.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>880620.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1005726.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1018550.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1056801.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1376838.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1507148.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1431129.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1357752.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1256521.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1539188.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1315146.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1307375.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1387084.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1486856.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1189522.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1426686.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1466734.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1853861.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1551481.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1467133.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1663777.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2318854.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1851970.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>3566891.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2300075.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2675701.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1982589.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2101340.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2137404.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2531152.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>2006505.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>3430588.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>5436496.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Объем отгруженных товаров собственного производства, выполненных работ и услуг
+            собственными силами по чистым видам деятельности
+        </NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>2</ID>
+        <AttributeOfIndex>По полному кругу организаций
+            По видам деятельности
+        </AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Отгружено товаров собственного производства, выполнено работ и услуг собственными силами, млн рублей
+        </Name>
+    </array>
+    <array>
+        <global_id>167595353</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>112433.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>122931.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>120747.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>166828.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>101408.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>136543.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>147222.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>168700.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>87507.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>123731.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>147642.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>190194.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>99583.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>145587.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>159041.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>205517.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>112950.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>154151.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>183753.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>223420.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>125358.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1183371.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>195489.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>230478.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>137937.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>197502.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>202808.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>267967.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>149597.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>197100.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>244616.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>285454.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>169259.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>199965.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>239442.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>304303.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>161116.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>207848.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>252018.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>289205.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>173341.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>216835.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>259596.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>298744.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>189136.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>396086.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>664962.8</Value>
+        </IndexValues>
+        <NameInInformationSource>Объем работ, выполненный по виду деятельности Строительство</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>3</ID>
+        <AttributeOfIndex>По полному кругу организаций</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Объем работ, выполненных по виду деятельности &quot;Строительство&quot;, млн рублей</Name>
+    </array>
+    <array>
+        <global_id>167595354</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>85.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>78.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>68.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>85.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>89.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>110.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>119.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>97.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>79.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>81.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>89.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>100.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>105.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>107.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>104.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>97.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>102.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>97.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>109.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>104.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>106.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>108.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>100.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>104.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>101.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>99.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>113.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>107.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>98.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>118.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>104.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>110.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>93.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>101.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>90.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>95.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>100.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>93.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>107.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>107.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>96.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>93.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>95.4</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс физического объема работ, выполненных по виду деятельности Строительство
+        </NameInInformationSource>
+        <PresentationType>Период к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>4</ID>
+        <AttributeOfIndex>По полному кругу организаций</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Объем работ, выполненных по виду деятельности &quot;Строительство&quot;, в % к соответствующему периоду
+            предыдущего года
+        </Name>
+    </array>
+    <array>
+        <global_id>167595355</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>100.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>106.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>81.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>69.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>47.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>140.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>93.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>54.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>59.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>111.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>106.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>128.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>141.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>66.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>111.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>173.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>210.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>188.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>62.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>129.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>134.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>90.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>91.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>105.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>130.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>73.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>150.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>90.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>59.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>71.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>107.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>41.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>88.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>144.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>124.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>88.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>86.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>184.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>86.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>459.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>213.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>129.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>79.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>108.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>96.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>84.3</Value>
+        </IndexValues>
+        <NameInInformationSource>Ввод в действие жилья за счет всех источников финансирования по округам
+        </NameInInformationSource>
+        <PresentationType>Период к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>5</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Строительство жилых домов, в % к соответствующему периоду предыдущего года</Name>
+    </array>
+    <array>
+        <global_id>167595356</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>84.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>80.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>83.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>89.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>109.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>103.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>79.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>93.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>99.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>101.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>114.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>117.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>114.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>111.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>110.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>110.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>113.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>116.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>117.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>116.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>113.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>112.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>113.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>109.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>109.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>109.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>92.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>100.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>103.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>105.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>112.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>100.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>106.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>105.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>113.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>109.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>100.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>98.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>82.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>96.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>99.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>88.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>80.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>88.7</Value>
+        </IndexValues>
+        <NameInInformationSource>Темп роста грузооборота автомобильного транспорта (коммерческого и некоммерческого),
+            %
+        </NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>6</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Перевозки грузов автомобильным транспортом организаций всех видов экономической без субъектов малого
+            предпринимательства (по кругу предприятий, отчитавшихся в отчетном периоде), в % к соответствующему периоду
+            предыдущего года
+        </Name>
+    </array>
+    <array>
+        <global_id>167595357</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>594949.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>1209237.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>1818544.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>2527566.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>652387.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>1348685.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>2042845.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>2882416.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>756774.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1550915.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>2356752.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>3322047.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>811142.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1655489.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>2669010.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>3639715.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>911591.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1868059.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>2844251.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>4016986.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>997707.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>2043508.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>3113221.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>4436898.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1082772.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>2176729.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>3249639.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>4474524.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1015588.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2021232.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>3067773.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>4282410.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1052378.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2122599.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>3252150.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>4521886.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1102257.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2234900.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>3414330.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>4798454.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1181485.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2379261.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>3622986.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>5101996.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1261501.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>2275450.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>3630965.1</Value>
+        </IndexValues>
+        <NameInInformationSource>Оборот розничной торговли без оборота общественного питания и продажи товаров по
+            безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Нарастающим итогом с начала года</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>7</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли, млн рублей</Name>
+    </array>
+    <array>
+        <global_id>167595358</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>95.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>95.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>95.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>97.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>102.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>105.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>106.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>104.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>104.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>105.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>106.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>102.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>104.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>102.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>102.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>102.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>92.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>90.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>88.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>86.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>90.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>89.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>92.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>98.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>101.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>101.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>100.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>104.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>93.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>96.8</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс физического объема оборота розничной торговли без оборота общественного питания
+            и продажи товаров по безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>8</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли в сопоставимых в ценах, в % к соответствующему периоду предыдущего года</Name>
+    </array>
+    <array>
+        <global_id>167595359</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>296812.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>608403.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>908028.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>1254392.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>329641.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>680298.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>1031226.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>1453745.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>389725.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>791324.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1192412.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1680369.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>413904.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>838458.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1275545.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1829469.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>466247.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>949906.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1445268.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>2057363.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>510620.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1048291.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1594684.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>2289002.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>565822.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1124470.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1661130.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>2293428.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>556930.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1078119.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1620846.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2271359.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>579540.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1147643.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1736256.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2421781.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>604732.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1212763.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1826953.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2573228.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>655172.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1308709.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1960994.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2749874.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>697869.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1303627.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1986385.3</Value>
+        </IndexValues>
+        <NameInInformationSource>Оборот розничной торговли без оборота общественного питания и продажи товаров по
+            безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Нарастающим итогом с начала года</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>9</ID>
+        <AttributeOfIndex>Пищевые продукты, включая напитки и табачные изделия</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли пищевыми продуктами, включая напитки, и табачными изделиями, млн рублей</Name>
+    </array>
+    <array>
+        <global_id>167595360</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>96.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>97.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>98.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>99.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>105.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>107.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>108.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>104.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>103.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>104.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>105.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>104.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>90.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>87.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>85.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>83.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>89.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>93.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>102.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>102.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>103.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>103.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>103.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>102.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>104.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>97.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>98.3</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс физического объема оборота розничной торговли без оборота общественного питания
+            и продажи товаров по безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>10</ID>
+        <AttributeOfIndex>Пищевые продукты, включая напитки и табачные изделия</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли пищевыми продуктами, включая напитки, и табачными изделиями, в % к
+            соответствующему периоду предыдущего года
+        </Name>
+    </array>
+    <array>
+        <global_id>167595361</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>298137.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>600834.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>910516.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>1273175.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>329296.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>668387.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>1011619.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>1428672.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>367050.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>759591.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1164340.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1641678.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>411435.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>846788.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1283466.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1810246.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>445345.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>918154.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1398984.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1959624.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>487087.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>995217.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1518537.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>2147896.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>474767.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>967263.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>146430.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>2016678.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>458658.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>943112.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1446926.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2011051.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>472837.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>974956.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1515894.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2100105.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>497525.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1022136.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1587378.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2225226.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>526313.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1070552.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1661992.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2352122.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>563632.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>971822.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1627579.8</Value>
+        </IndexValues>
+        <NameInInformationSource>Оборот розничной торговли без оборота общественного питания и продажи товаров по
+            безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Нарастающим итогом с начала года</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>11</ID>
+        <AttributeOfIndex>Непродовольственные товары</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли непродовольственными товарами, млн рублей</Name>
+    </array>
+    <array>
+        <global_id>167595362</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>94.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>93.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>93.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>94.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>101.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>103.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>105.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>104.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>106.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>107.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>107.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>102.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>102.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>102.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>103.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>104.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>86.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>85.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>84.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>82.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>88.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>89.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>92.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>96.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>97.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>99.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>101.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>101.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>100.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>104.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>88.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2020</Year>
+            <Value>95.1</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс физического объема оборота розничной торговли без оборота общественного питания
+            и продажи товаров по безналичному расчету
+        </NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>12</ID>
+        <AttributeOfIndex>Непродовольственные товары</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Оборот розничной торговли непродовольственными товарами, в % к соответствующему периоду предыдущего года
+        </Name>
+    </array>
+    <array>
+        <global_id>167595363</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>19519.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>23232.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>30445.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>39968.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>35090.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>34423.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>32664.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>41641.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>42572.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>47323.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>43890.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>54190.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>52241.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>49113.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>45939.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>52469.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>49211.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>47227.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>55775.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>63632.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>55812.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>58075.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>53193.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>48328.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>37954.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>36301.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>31861.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>32505.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>25052.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>28119.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>29461.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>35560.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>36064.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>34984.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>35736.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>41838.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>47481.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>47304.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>49212.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>53610.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>45955.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>41662.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>44576.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>51347.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>34827.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>64223.4</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>13</ID>
+        <AttributeOfIndex>Показатель - Экспорт. Страны мира - Всего</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Экспорт (всего), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595364</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>18757.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>22131.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>27886.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>36360.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>31964.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>31189.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>29597.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>37037.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>36736.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>43684.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>41182.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>49832.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>47775.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>45332.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>41558.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>47740.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>45527.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>45226.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>51694.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>58991.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>51715.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>53207.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>52402.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>47104.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>36476.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>35332.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>31406.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>31347.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>22232.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>25421.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>26614.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>32112.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>32502.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>31533.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>32028.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>37023.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>43067.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>43207.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>44935.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>48584.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>41716.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>37687.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>40367.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>46406.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>32620.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>58591.8</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>14</ID>
+        <AttributeOfIndex>Показатель - Экспорт. Страны вне СНГ</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Экспорт (страны дальнего зарубежья), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595365</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>762.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>1101.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>2559.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>3608.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>3126.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>3234.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>3067.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>4604.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>5836.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>3639.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>2708.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>4358.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>4466.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>3781.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>4381.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>4729.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>3684.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>2000.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>4081.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>4641.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>4096.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>4868.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>791.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>1224.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1478.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>969.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>455.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>1157.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2820.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2697.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>2847.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>3447.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>3561.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>3451.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>3708.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>4814.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>4414.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>4096.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>4276.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>5025.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>4239.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>3974.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>4208.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>4940.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>2207.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>5631.6</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>15</ID>
+        <AttributeOfIndex>Показатель - Экспорт. Страны СНГ</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Экспорт (государства - участники СНГ), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595366</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>14875.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>15496.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>17848.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>22639.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>16061.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>20870.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>25337.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>29032.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>24218.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>30424.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>30120.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>32328.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>26044.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>29449.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>32421.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>35178.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>28761.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>30125.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>32649.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>34563.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>27752.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>30394.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>30819.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>29014.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>16631.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>17356.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>19953.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>20439.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>15230.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>17559.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>21091.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>22348.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>19468.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>23464.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>26238.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>29469.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>24104.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>26602.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>25271.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>27448.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>23381.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>25017.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>27640.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>31038.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>21784.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>47060.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>16</ID>
+        <AttributeOfIndex>Показатель - Импорт. Страны мира - Всего</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Импорт (всего), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595367</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>14394.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>14918.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>17290.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>21872.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>15493.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>20091.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>24587.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>28093.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>23488.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>29351.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>29077.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>31131.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>25093.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>28323.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>31289.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>33927.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>27890.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>29022.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>31559.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>33343.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>27015.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>29535.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>29983.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>28292.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>16183.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>16841.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>19423.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>20016.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>14055.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>15970.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>19388.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>20604.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>17771.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>21499.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>24179.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>27271.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>21164.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>24198.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>23140.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>25204.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>21513.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>22698.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>25405.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>28711.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>20483.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>43464.4</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>17</ID>
+        <AttributeOfIndex>Показатель - Импорт. Страны вне СНГ</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Импорт (страны дальнего зарубежья), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595368</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>481.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>578.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>558.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>767.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>568.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>779.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>750.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>939.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>730.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1073.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1043.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>1197.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>951.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1126.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1132.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>1251.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>871.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1103.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1090.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>1220.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>737.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>858.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>836.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>721.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>448.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>515.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>530.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>423.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1175.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1588.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1703.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>1773.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1697.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>1964.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2059.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>2198.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1940.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2404.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2130.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>2243.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1877.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2318.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2235.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>2326.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1301.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>3595.6</Value>
+        </IndexValues>
+        <NameInInformationSource>Экспорт, импорт и внешнеторговый оборот</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>18</ID>
+        <AttributeOfIndex>Показатель - Импорт. Страны СНГ</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Импорт (государства - участники СНГ), млн долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595369</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>128613.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>185663.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>173979.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>254165.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>102080.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>145336.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>185281.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>300062.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>92828.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>173343.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>223600.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>366652.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>123138.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>250129.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>337881.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>508946.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>147352.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>279720.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>351937.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>634083.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>152252.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>297303.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>401468.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>690859.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>166708.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>276304.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>490865.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>609722.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>195195.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>356145.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>366419.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>794479.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>279260.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>375695.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>450031.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>902720.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>303647.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>462774.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>588350.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>1074547.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>403303.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>552627.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>696947.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>1292549.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>452463.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>1027900.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Инвестиции в основной капитал</NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>19</ID>
+        <AttributeOfIndex>По полному кругу организаций</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Объем инвестиций в основной капитал (по полному кругу хозяйствующих субъектов), за счет всех источников
+            финансирования, млн рублей
+        </Name>
+    </array>
+    <array>
+        <global_id>167595370</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>92.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>99.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>76.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>58.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>78.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>77.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>113.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>84.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>109.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>109.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>111.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>123.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>134.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>139.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>127.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>110.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>99.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>119.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>101.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>104.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>110.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>103.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>98.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>81.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>112.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>88.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>107.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>119.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>70.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>123.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>142.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>104.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>119.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>110.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>116.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>124.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>113.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>125.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>115.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>98.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>117.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>114.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>108.2</Value>
+        </IndexValues>
+        <NameInInformationSource>Индекс физического объема инвестиций в основной капитал</NameInInformationSource>
+        <PresentationType>Период к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>20</ID>
+        <AttributeOfIndex>По полному кругу организаций</AttributeOfIndex>
+        <Source>Мосгорстат</Source>
+        <Name>Индекс физического объема инвестиций в основной капитал, в сопоставимых ценах, в % к соответствующему
+            периоду предыдущего года
+        </Name>
+    </array>
+    <array>
+        <global_id>167595371</global_id>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>22281.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>23094.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>26399.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>17041.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>18542.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>15275.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>26871.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>17255.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>14415.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>16405.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>18604.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>14199.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>9583.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>13559.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>27990.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>18191.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>20835.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>22624.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>23671.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>16543.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>14976.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>17343.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>21010.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>19299.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>21887.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>28507.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>24210.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>27462.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Прямые инвестиции в Российскую Федерацию по субъектам, в которых зарегистрированы
+            резиденты
+        </NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Статистический бюллетень Банка России</SubSource>
+        <ID>21</ID>
+        <AttributeOfIndex>Показатели - Поступило</AttributeOfIndex>
+        <Source>Центральный банк Российской Федерации</Source>
+        <Name>Иностранные инвестиции, млн. долларов США</Name>
+    </array>
+    <array>
+        <global_id>167595372</global_id>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>43.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>53.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>56.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>53.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>49.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>47.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>60.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>57.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>49.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>50.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>48.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>54.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>34.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>46.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>52.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>56.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>53.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>58.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>58.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>43.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>49.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>53.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>53.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>51.21</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>50.06</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>51.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>50.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>65.3</Value>
+        </IndexValues>
+        <NameInInformationSource>Прямые инвестиции в Российскую Федерацию по субъектам, в которых зарегистрированы
+            резиденты
+        </NameInInformationSource>
+        <PresentationType>За период</PresentationType>
+        <SubSource>Статистический бюллетень Банка России</SubSource>
+        <ID>22</ID>
+        <AttributeOfIndex>Показатели - Поступило</AttributeOfIndex>
+        <Source>Центральный банк Российской Федерации</Source>
+        <Name>Иностранные инвестиции, в % к итогу (РФ)</Name>
+    </array>
+    <array>
+        <global_id>167595373</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>66.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>70.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>72.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>78.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>68.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>71.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>74.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>80.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>68.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>71.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>72.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>78.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>73.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>75.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>77.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>81.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>70.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>72.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>74.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>78.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>69.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>72.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>73.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>76.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>68.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>71.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>72.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>76.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>69.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>72.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>74.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>77.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>67.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>70.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>72.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>76.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>67.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>70.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>72.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>75.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>67.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>71.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>73.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>75.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>63.4</Value>
+        </IndexValues>
+        <NameInInformationSource>Количество крупных и средних организаций, предоставивших отчетность в Росстат
+        </NameInInformationSource>
+        <PresentationType>Нарастающим итогом с начала года</PresentationType>
+        <SubSource>Расширенный доклад</SubSource>
+        <ID>23</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Доля прибыльных предприятий и организаций (без субъектов малого предпринимательства), в % к общему
+            количеству
+        </Name>
+    </array>
+    <array>
+        <global_id>167595374</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>33735.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>37598.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>37945.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>40071.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>37830.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>41910.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>41282.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>44051.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>39827.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>43993.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>43834.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>47318.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>39467.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>44117.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>44623.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>48934.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>47734.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>50824.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>51104.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>54869.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>44253.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>47532.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>49397.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>54504.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>54320.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>57619.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>56787.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>59850.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>51098.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>54657.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>55489.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>59205.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>52124.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>56363.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>57129.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>61357.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>54130.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>58412.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>58383.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>62481.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>63086.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>73916.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>73466.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>85576.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>67063.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>69873.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Среднемесячные денежные доходы на душу населения</NameInInformationSource>
+        <PresentationType>Нарастающим итогом с начала года</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>24</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Среднедушевые денежные доходы населения, рублей</Name>
+    </array>
+    <array>
+        <global_id>167595375</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>122.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>123.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>119.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>125.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>112.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>111.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>108.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>109.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>105.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>105.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>106.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>107.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>99.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>101.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>103.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>120.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>115.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>114.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>112.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>92.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>93.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>96.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>99.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>122.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>121.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>115.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>109.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>94.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>94.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>97.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>98.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>105.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>106.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>106.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>105.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>100.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>100.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>98.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>99.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>106.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>106.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>110.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>107.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>106.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>102.0</Value>
+        </IndexValues>
+        <NameInInformationSource>Темп роста денежных доходов на душу населения</NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>25</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Среднедушевые денежные доходы населения, в % к соответствующему периоду предыдущего года</Name>
+    </array>
+    <array>
+        <global_id>167595350</global_id>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2009</Year>
+            <Value>109.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2009</Year>
+            <Value>110.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2009</Year>
+            <Value>106.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2009</Year>
+            <Value>113.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2010</Year>
+            <Value>104.4</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2010</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2010</Year>
+            <Value>103.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2011</Year>
+            <Value>97.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2011</Year>
+            <Value>97.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2011</Year>
+            <Value>98.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2011</Year>
+            <Value>100.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2012</Year>
+            <Value>95.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2012</Year>
+            <Value>96.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2012</Year>
+            <Value>97.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2012</Year>
+            <Value>98.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2013</Year>
+            <Value>113.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2013</Year>
+            <Value>108.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2013</Year>
+            <Value>108.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2013</Year>
+            <Value>106.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2014</Year>
+            <Value>88.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2014</Year>
+            <Value>88.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2014</Year>
+            <Value>91.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2014</Year>
+            <Value>92.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2015</Year>
+            <Value>106.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2015</Year>
+            <Value>104.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2015</Year>
+            <Value>99.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2015</Year>
+            <Value>95.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2016</Year>
+            <Value>86.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2016</Year>
+            <Value>88.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2016</Year>
+            <Value>91.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2016</Year>
+            <Value>92.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2017</Year>
+            <Value>100.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2017</Year>
+            <Value>100.9</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2017</Year>
+            <Value>102.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2017</Year>
+            <Value>101.6</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2018</Year>
+            <Value>97.3</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2018</Year>
+            <Value>97.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2018</Year>
+            <Value>95.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2018</Year>
+            <Value>97.5</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2019</Year>
+            <Value>101.7</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2019</Year>
+            <Value>102.1</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>III квартал</Quarter>
+            <Year>2019</Year>
+            <Value>103.8</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>IV квартал</Quarter>
+            <Year>2019</Year>
+            <Value>104.0</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>I квартал</Quarter>
+            <Year>2020</Year>
+            <Value>104.2</Value>
+        </IndexValues>
+        <IndexValues>
+            <Quarter>II квартал</Quarter>
+            <Year>2020</Year>
+            <Value>99.9</Value>
+        </IndexValues>
+        <NameInInformationSource>Темп роста реальных денежных доходов населения</NameInInformationSource>
+        <PresentationType>Период с начала года к аналогичному периоду предыдущего года, %</PresentationType>
+        <SubSource>Помесячная динамика экономических и социальных показателей города Москвы</SubSource>
+        <ID>26</ID>
+        <Source>Мосгорстат</Source>
+        <Name>Динамика реальных денежных доходов, в % к соответствующему периоду предыдущего года</Name>
+    </array>
+</catalog>
