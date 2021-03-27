@@ -1,7 +1,7 @@
 wheel
 fastapi
 fastapi-utils
-gunicorn
+gunicorn==20.1.0
 uvicorn
 ujson
 pydantic
