@@ -1,6 +1,6 @@
 wheel
 fastapi
-fastapi-utils
+fastapi-utils==0.2.1
 gunicorn
 uvicorn
 ujson
