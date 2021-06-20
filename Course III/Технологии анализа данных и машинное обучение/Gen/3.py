@@ -1,131 +1,155 @@
-from abc import ABCMeta, abstractmethod
-from random import randint, random
+import random
+import sys
 from time import time
-from typing import List
 
 
-class DNAAbstract(metaclass=ABCMeta):
-    @abstractmethod
-    def get_phrase(self):
-        pass
+def weighted_choice(items):
+    """
+    Выбирает случайный элемент из набора значений, где набор значений - это список кортежей в
+    форме (шт., вес). Вес определяет вероятность выбора своего
+    соответствующего пункта.
+    """
 
-    @abstractmethod
-    def fitness(self, target_value: str):
-        pass
-
-    @abstractmethod
-    def crossover(self, partner: list):
-        pass
-
-    @abstractmethod
-    def mutate(self, mutation_rate: float):
-        pass
-
-
-class DNA(DNAAbstract):
-    genes: List = []
-
-    def __init__(self, num: int):
-        # Словарь для перебора
-        self.genes = [(chr(randint(32, 126))) for _ in range(num)]
-
-    def get_phrase(self):
-        return "".join(self.genes)
-
-    def fitness(self, target_value: str):
-        return (lambda s: s * s)(
-            sum(
-                1 if self.genes[i] == target_value[i] else 0
-                for i in range(len(self.genes))
-            )
-        ) / (len(target_value) * len(target_value))
-
-    def crossover(self, partner: List[DNAAbstract]):
-        cnt_genes = len(self.genes)
-        child, midpoint = DNA(cnt_genes), randint(0, cnt_genes)
-        child.genes = [
-            self.genes[i] if i > midpoint else partner.genes[i]
-            for i in range(cnt_genes)
-        ]
-        return child
-
-    def mutate(self, mutation_rate: float):
-        for i in range(len(self.genes)):
-            if random() < mutation_rate:
-                self.genes[i] = chr(randint(32, 126))
-        return self
+    weight_total = sum((item[1] for item in items))
+    n = random.uniform(0, weight_total)
+    last_item = None
+    for item, weight in items:
+        if n < weight:
+            return item
+        n = n - weight
+        last_item = item
+    return last_item
 
 
-class Population:
-    population: List[DNA]
-
-    fitness: List
-    max_fitness: int
-    mutation_rate: float
-
-    generations: int = 0
-
-    def __init__(self, target_value: str, mutation_rate: float, num: int):
-        self.mating_pool = []
-        self.max_fitness = 0
-        self.population = [DNA(len(target_value)) for _ in range(num)]
-        self.mutation_rate = mutation_rate
-
-        self.calc_fitness(target_value)
-
-    def calc_fitness(self, target_value: str):
-        self.fitness = [
-            self.population[i].fitness(target_value)
-            for i in range(len(self.population))
-        ]
-
-    def natural_selection(self):
-        global index, x
-        self.mating_pool = []
-
-        self.max_fitness = 0
-        for i in range(len(self.population)):
-            if self.fitness[i] > self.max_fitness:
-                self.max_fitness = self.fitness[i]
-                index = i
-
-        print(
-            f"generation: {self.generations}, phrase: {DNA.get_phrase(self.population[index])}"
-        )
-
-        def rescale(x, a, b, c, d, force_float=False):
-            new_scale = ((float(x - a) / (b - a)) * (d - c)) + c
-            if not force_float and all(map(lambda x: type(x) == int, [x, a, b, c, d])):
-                return int(round(new_scale))
-            return new_scale
-
-        if (DNA.get_phrase(self.population[index])) == target:
-            x = False
-        for i in range(len(self.population)):
-            fitness = rescale(self.fitness[i], 0, float(self.max_fitness), 0, 1)
-            n = fitness * 100
-            for j in range(int(n)):
-                self.mating_pool.append(self.population[i])
-
-    def generate(self):
-        self.population = list(
-            map(
-                lambda _: self.mating_pool[randint(0, len(self.mating_pool) - 1)]
-                .crossover(self.mating_pool[randint(0, len(self.mating_pool) - 1)])
-                .mutate(self.mutation_rate),
-                self.population,
-            )
-        )
-        self.generations += 1
+def random_char():
+    return chr(int(random.randrange(32, 126, 1)))
 
 
+def random_population():
+    """
+      Возвращает список POP_SIZE, каждый из которых генерируется случайным образом путем итерации
+    DNA_SIZE раз, чтобы сгенерировать строку случайных символов с помощью random_char ().
+    """
+
+    pop = []
+    for i in range(POP_SIZE):
+        dna = ""
+        for c in range(DNA_SIZE):
+            dna += random_char()
+        pop.append(dna)
+    return pop
+
+
+def fitness(dna):
+    """
+      Для каждого гена в ДНК эта функция вычисляет разницу между
+    ним и символом в той же позиции в ОПТИМАЛЬНОЙ строке. Значения разницы
+    суммируются, а затем возвращаются.
+    """
+
+    a = 0
+    for c in range(DNA_SIZE):
+        a += abs(ord(dna[c]) - ord(OPTIMAL[c]))
+    return a
+
+
+def mutation(dna):
+    """
+      Для каждого гена в ДНК есть шанс 1 / mutation_chance, что он будет
+    замещен  случайным символом. Это обеспечивает разнообразие в
+    популяции, и гарантирует, что будет трудно застрять в локальных минимумах.
+    """
+
+    dna_out = ""
+    mutation_chance = 100
+    for c in range(DNA_SIZE):
+        if int(random.random() * mutation_chance) == 1:
+            dna_out += random_char()
+        else:
+            dna_out += dna[c]
+    return dna_out
+
+
+def crossover(dna1, dna2):
+    """
+    Crossover 2 dna используя рандомный индекс.
+    Сохраняют свою первую часть до кроссовера.
+    Но их концы меняются местами.
+    """
+
+    pos = int(random.random() * DNA_SIZE)
+    return dna1[:pos] + dna2[pos:], dna2[:pos] + dna1[pos:]
+
+
+# Необходимые переменные
+# Вводим искомую строчку (фразу)
+# Устанавливаем количество поколений
+
+OPTIMAL = "intelligent information systems"
+DNA_SIZE = len(OPTIMAL)
+POP_SIZE = 400
+GENERATIONS = 9999999999
+
+# Будем замерять время вычисления алгоритма
 start = time()
-target = "intelligent information systems"
-population = Population(target, 0.01, 2000)
-x, index = True, 0
-while x:
-    population.natural_selection()
-    population.generate()
-    population.calc_fitness(target)
+
+# Создает начальную популяцию.
+# Это создаст список строк POP_SIZE, каждая из которых инициализирована последовательностью случайных символов.
+population = random_population()
+fittest_string = None
+
+# Моделируем заданное нами количество поколений
+generation = 0
+while generation <= GENERATIONS:
+    generation += 1
+    print(f"Generation №{generation}\n Random sample:{population[0]} ")
+    weighted_population = []
+    for individual in population:
+        fitness_val = fitness(individual)
+
+        # Генерирует пару (individual,fitness),
+        # учитывая, чтобы мы случайно не поделили на ноль.
+        if fitness_val == 0:
+            pair = (individual, 1.0)
+        else:
+            pair = (individual, 1.0 / fitness_val)
+
+        weighted_population.append(pair)
+
+    population = []
+
+    # Выбирает двух случайных особей на основе их вероятностей пригодности,
+    # скрещивает их гены в случайной точке,
+    # изменяет их и снова добавляет в популяцию для следующей итерации.
+    for _ in range(int(POP_SIZE / 2)):
+        # Селекция
+        ind1 = weighted_choice(weighted_population)
+        ind2 = weighted_choice(weighted_population)
+
+        # Переплетение
+        ind1, ind2 = crossover(ind1, ind2)
+
+        #  Мутация и возврат обратно в популяцию
+        population.append(mutation(ind1))
+        population.append(mutation(ind2))
+
+    # Отображает строку с наивысшим рейтингом после итерации всех поколений.
+    # Это будет ближайшая строка к ОПТИМАЛЬНОЙ строке,
+    # то есть она будет иметь наименьшее значение пригодности.
+
+    fittest_string = population[0]
+    minimum_fitness = fitness(population[0])
+
+    for individual in population:
+        ind_fitness = fitness(individual)
+        if ind_fitness <= minimum_fitness:
+            fittest_string = individual
+            minimum_fitness = ind_fitness
+
+    # Обрывает цикл, если мы нашли подходящую  строчку
+    if fittest_string == OPTIMAL:
+        break
+
 end = time()
-print(end - start)
+print(f"\nTime:{round(end - start, 1)}s.\n")
+print(f"Final string: {fittest_string}")
