@@ -7,4 +7,4 @@ ujson
 pydantic
 python-multipart
 uvloop
-httptools
+httptools==0.3.0
