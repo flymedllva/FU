@@ -2,7 +2,7 @@ wheel
 fastapi
 fastapi-utils
 gunicorn
-uvicorn
+uvicorn==0.17.2
 ujson
 pydantic
 python-multipart
