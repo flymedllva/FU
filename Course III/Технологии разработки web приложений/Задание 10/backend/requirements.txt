@@ -4,7 +4,7 @@ fastapi-utils
 gunicorn
 uvicorn
 ujson
-pydantic
+pydantic==1.10.2
 python-multipart
 uvloop
 httptools
