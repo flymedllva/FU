@@ -6,5 +6,5 @@ uvicorn
 ujson
 pydantic
 python-multipart
-uvloop
+uvloop==0.17.0
 httptools
