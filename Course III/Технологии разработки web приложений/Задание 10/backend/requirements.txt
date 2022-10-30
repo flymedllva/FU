@@ -1,5 +1,5 @@
 wheel
-fastapi
+fastapi==0.65.2
 fastapi-utils
 gunicorn
 uvicorn
