@@ -5,6 +5,6 @@ gunicorn
 uvicorn
 ujson
 pydantic
-python-multipart
+python-multipart==0.0.6
 uvloop
 httptools
